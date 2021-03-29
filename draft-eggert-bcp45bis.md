@@ -23,16 +23,76 @@ author:
   uri: "https://eggert.org/"
 
 informative:
+  SAA-SOP:
+    title: Sergeant-at-Arms Standard Operating Procedures
+    author:
+    - organization: IETF Sergeants-at-Arms
+    target: "https://github.com/ietf/saa/blob/master/sop.md"
+
+  SAA-UPC:
+    title: Unprofessional commentary
+    author:
+    - organization: IETF Sergeants-at-Arms
+    target:
+      "https://github.com/ietf/saa/blob/master/unprofessional-commentary.md"
+
+  LAST-CALLS:
+    title: IETF Last Calls
+    author:
+    - organization: IETF
+    target: "https://ietf.org/mailman/listinfo/last-call"
+
+  IETF-DISCUSS:
+    title: IETF Discussion List
+    author:
+    - organization: IETF
+    target: "https://ietf.org/mailman/listinfo/ietf"
+
+  IETF-ANNOUNCE:
+    title: IETF Announcement List
+    author:
+    - organization: IETF
+    target: "https://ietf.org/mailman/listinfo/ietf-announce"
+
+  ADMIN-DISCUSS:
+    title: Discussion List for IETF LLC Administrative Issues
+    author:
+    - organization: IETF
+    target: "https://ietf.org/mailman/listinfo/admin-discuss"
+
+  IETF110-ATTENDEES:
+    title: Mailing List for IETF 110 Attendees
+    author:
+    - organization: IETF
+    target: "https://ietf.org/mailman/listinfo/110attendees"
+
+  IETF-AHP:
+    title: IETF Anti-Harassment Policy
+    author:
+    - organization: IETF
+    target:
+      "https://ietf.org/about/groups/iesg/statements/anti-harassment-policy/"
+
+  NOTE-WELL:
+    title: Note Well
+    author:
+    - organization: IETF
+    target: "https://ietf.org/about/note-well/"
+
+  NON-WG-LISTS:
+    title: Non-Working Group Email List Guidelines
+    author:
+    - organization: IETF
+    target: "https://ietf.org/how/lists/nonwglist-guidelines/"
 
 --- abstract
 
 The Internet Engineering Task Force (IETF) discussion mailing list furthers the
-development and specification of Internet technology through discussion of
-technical issues, and hosts discussions of IETF direction, policy, meetings, and
-procedures.  As this is the most general IETF mailing list, considerable
-latitude is allowed. Advertising, whether to solicit business or promote
-employment opportunities, falls well outside the range of acceptable topics, as
-do discussions of a personal nature.
+development and specification of Internet technology through the general
+discussion of topics for which no dedicated mailing lists exists. As this is the
+most general IETF mailing list, considerable latitude is allowed. Advertising,
+whether to solicit business or promote employment opportunities, falls well
+outside the range of acceptable topics, as do discussions of a personal nature.
 
 This document obsoletes RFC3005.
 
@@ -50,52 +110,75 @@ list for this draft can be found at [](https://github.com/larseggert/bcp45bis).
 
 # Introduction
 
-The IETF discussion list, ietf@ietf.org, serves two purposes.  It furthers the
-development and specification of Internet technology through discussion of
-technical issues.  It also hosts discussions of IETF direction, policy,
-meetings, and procedures.  As this is the most general IETF mailing list,
-considerable latitude is allowed. Advertising, whether to solicit business or
-promote employment opportunities, falls well outside the range of acceptable
-topics, as do discussions of a personal nature.
+The IETF discussion list {{IETF-DISCUSS}} furthers the development and
+specification of Internet technology through the general discussion of topics
+for which no dedicated mailing lists exists. As this is the most general IETF
+mailing list, considerable latitude is allowed. Advertising, whether to solicit
+business or promote employment opportunities, falls well outside the range of
+acceptable topics, as do discussions of a personal nature.
+
+The IETF Note Well {{NOTE-WELL}} applies to discussions on the IETF discussion
+list and all other IETF mailing lists, and requires conformance with the IETF
+Guidelines for Conduct {{?RFC7154}} and the Anti-Harassment Policy {{IETF-AHP}},
+among others.
 
 # Charter for the IETF Discussion List
 
-This list is meant for initial discussion only.  Discussions that fall within
-the area of any working group or well established list should be moved to such
-more specific forum as soon as this is pointed out, unless the issue is one for
-which the working group needs wider input or direction.
+This list is meant for initial technical discussion only. Discussions that fall
+within the area of any working group, area or well established list should be
+moved to such more specific forums as soon as this is pointed out.
+
+When no dedicated mailing list exists, it may be preferable to request the
+creation of one {{NON-WG-LISTS}} and only announce the availability of the new
+list on the IETF discussion list.
 
 In addition to the topics noted above, appropriate postings include:
 
-- Last Call discussions of proposed protocol actions
-- Discussion of technical issues that are candidates for IETF work, but do not
-  yet have an appropriate e-mail venue
-- Discussion of IETF administrative policies
-- Questions and clarifications concerning IETF meetings
+- Initial discussion of technical issues that are candidates for IETF work, but
+  have not yet identified appropriate mailing lists.
+
+- Questions and clarifications concerning IETF meetings, although most of these
+  topics are better brought up on the discussion list for IETF LLC
+  administrative issues {{ADMIN-DISCUSS}} or the attendee discussion list for a
+  given IETF meeting, such as {{IETF110-ATTENDEES} for IETF-110.
+
 - Announcements of conferences, events, or activities that are sponsored or
-  endorsed by the Internet Society or IETF.
+  endorsed by the Internet Society or IETF, although the IETF announcement list
+  {{IETF-ANNOUNCE}} is the preferred list for these.
+
+These topics used to be in scope for the IETF discussion list, but have since
+moved to dedicated lists:
+
+- Last Call discussions of proposed protocol actions now take place on the IETF
+  Last Calls mailing list {{LAST-CALLS}}.
+
+- Discussion of IETF administrative policies now take place on the discussion
+  list for IETF LLC administrative issues {{ADMIN-DISCUSS}}.
 
 Inappropriate postings include:
 
 - Unsolicited bulk e-mail
+
 - Discussion of subjects unrelated to IETF policy, meetings, activities, or
   technical concerns
+
 - Unprofessional commentary, regardless of the general subject
+
 - Announcements of conferences, events, or activities that are not sponsored or
   endorsed by the Internet Society or IETF.
 
 # Security Considerations
 
-The IETF Chair, the IETF Executive Director, or a sergeant-at-arms appointed by
-the Chair is empowered to restrict posting by a person, or of a thread, when the
-content is inappropriate and represents a pattern of abuse.  They are encouraged
-to take into account the overall nature of the postings by an individual and
-whether particular postings are an aberration or typical.  Complaints regarding
-their decisions should be referred to the IAB.
+The IETF Chair, the IETF Executive Director, or a sergeant-at-arms {{SAA-SOP}}
+appointed by the Chair is empowered to restrict posting by a person, or of a
+thread, when the content is inappropriate and represents a pattern of abuse
+{{SAA-UPC}}. They are encouraged to take into account the overall nature of the
+postings by an individual and whether particular postings are an aberration or
+typical. Complaints regarding their decisions should be referred to the IAB.
 
 # IANA Considerations
 
-This document does not require any IANA actions.
+This document does not request any IANA actions.
 
 --- back
 
@@ -109,6 +192,10 @@ Susan R. Harris authored {{!RFC3005}}, which this document replaces.
 
 - added introduction, security considerations and IANA considerations sections
 - added "note to readers" with pointers to the discussion list and the repo
+- added references to IETF Sergeants-at-Arms procedures
+- added references to various mailing lists for topics that used to be in scope
+  for the IETF discussion list but no longer are
+- added references to the Note Well and relevant other policies that apply
 
 ## Since RFC3005
 
