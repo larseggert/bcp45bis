@@ -122,17 +122,19 @@ list and all other IETF mailing lists, and requires conformance with the IETF
 Guidelines for Conduct {{?RFC7154}} and the Anti-Harassment Policy {{IETF-AHP}},
 among others.
 
-# Charter for the IETF Discussion List
+# Charter for the IETF Discussion List {#charter}
 
-This list is meant for initial technical discussion only. Discussions that fall
-within the area of any working group, area or well established list should be
-moved to such more specific forums as soon as this is pointed out.
+The IETF discussion list is meant for discussions for which a more appropriate
+list does not exists, such as discussions that do not fall within the area of
+any working group, area or other established list. When discussions are started
+on the IETF discussion list for which such venues do exist, they should be moved
+there as soon as this is pointed out.
 
 When no dedicated mailing list exists, it may be preferable to request the
 creation of one {{NON-WG-LISTS}} and only announce the availability of the new
-list on the IETF discussion list.
+list on the IETF discussion list and on other related lists, such as area lists.
 
-In addition to the topics noted above, appropriate postings include:
+Appropriate postings to the IETF discussion list include:
 
 - Initial discussion of technical issues that are candidates for IETF work, but
   have not yet identified appropriate mailing lists.
@@ -140,7 +142,7 @@ In addition to the topics noted above, appropriate postings include:
 - Questions and clarifications concerning  practical aspects of IETF meetings,
   although most of these topics are better brought up on the discussion list for
   IETF LLC administrative issues {{ADMIN-DISCUSS}} or the attendee discussion
-  list for a given IETF meeting, such as {{IETF110-ATTENDEES} for IETF-110.
+  list for a given IETF meeting, such as {{IETF110-ATTENDEES}} for IETF-110.
 
 - Announcements of conferences, events, or activities that are sponsored or
   endorsed by the Internet Society or the IETF, although the IETF announcement
@@ -186,14 +188,14 @@ This document does not request any IANA actions.
 
 Susan R. Harris authored {{!RFC3005}}, which this document replaces.
 
-Brian Carpenter contributed text suggestions to this document.
-
 # Changes
 
 ## Since draft-eggert-bcp45bis-01
 
 - applied a [suggestion from Brian
   Carpenter](https://mailarchive.ietf.org/arch/msg/gendispatch/-U2LWKf0VonKnQXs4jPEqIg_L_A)
+- rephrased beginning of {{charter}}, as [suggested by Stephen
+  Farrell](https://mailarchive.ietf.org/arch/msg/gendispatch/p73lu-D-WvQrbKBZ80c2T7bbBlQ/)
 
 ## Since draft-eggert-bcp45bis-00
 
