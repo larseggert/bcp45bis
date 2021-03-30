@@ -30,7 +30,7 @@ informative:
     target: "https://github.com/ietf/saa/blob/master/sop.md"
 
   SAA-UPC:
-    title: Unprofessional commentary
+    title: Unprofessional Commentary
     author:
     - organization: IETF Sergeants-at-Arms
     target:
@@ -137,14 +137,14 @@ In addition to the topics noted above, appropriate postings include:
 - Initial discussion of technical issues that are candidates for IETF work, but
   have not yet identified appropriate mailing lists.
 
-- Questions and clarifications concerning IETF meetings, although most of these
-  topics are better brought up on the discussion list for IETF LLC
-  administrative issues {{ADMIN-DISCUSS}} or the attendee discussion list for a
-  given IETF meeting, such as {{IETF110-ATTENDEES} for IETF-110.
+- Questions and clarifications concerning  practical aspects of IETF meetings,
+  although most of these topics are better brought up on the discussion list for
+  IETF LLC administrative issues {{ADMIN-DISCUSS}} or the attendee discussion
+  list for a given IETF meeting, such as {{IETF110-ATTENDEES} for IETF-110.
 
 - Announcements of conferences, events, or activities that are sponsored or
-  endorsed by the Internet Society or IETF, although the IETF announcement list
-  {{IETF-ANNOUNCE}} is the preferred list for these.
+  endorsed by the Internet Society or the IETF, although the IETF announcement
+  list {{IETF-ANNOUNCE}} is the preferred list for these.
 
 These topics used to be in scope for the IETF discussion list, but have since
 moved to dedicated lists:
@@ -165,7 +165,7 @@ Inappropriate postings include:
 - Unprofessional commentary, regardless of the general subject
 
 - Announcements of conferences, events, or activities that are not sponsored or
-  endorsed by the Internet Society or IETF.
+  endorsed by the Internet Society or the IETF.
 
 # Security Considerations
 
@@ -186,7 +186,14 @@ This document does not request any IANA actions.
 
 Susan R. Harris authored {{!RFC3005}}, which this document replaces.
 
+Brian Carpenter contributed text suggestions to this document.
+
 # Changes
+
+## Since draft-eggert-bcp45bis-01
+
+- applied a [suggestion from Brian
+  Carpenter](https://mailarchive.ietf.org/arch/msg/gendispatch/-U2LWKf0VonKnQXs4jPEqIg_L_A)
 
 ## Since draft-eggert-bcp45bis-00
 
