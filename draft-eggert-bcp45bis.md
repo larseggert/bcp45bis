@@ -90,9 +90,8 @@ informative:
 The Internet Engineering Task Force (IETF) discussion mailing list furthers the
 development and specification of Internet technology through the general
 discussion of topics for which no dedicated mailing lists exists. As this is the
-most general IETF mailing list, considerable latitude is allowed. Advertising,
-whether to solicit business or promote employment opportunities, falls well
-outside the range of acceptable topics, as do discussions of a personal nature.
+most general IETF mailing list, considerable latitude is allowed, but there are
+posts that are unsuitable for this mailing list.
 
 This document obsoletes RFC3005.
 
@@ -113,9 +112,9 @@ list for this draft can be found at [](https://github.com/larseggert/bcp45bis).
 The IETF discussion list {{IETF-DISCUSS}} furthers the development and
 specification of Internet technology through the general discussion of topics
 for which no dedicated mailing lists exists. As this is the most general IETF
-mailing list, considerable latitude is allowed. Advertising, whether to solicit
-business or promote employment opportunities, falls well outside the range of
-acceptable topics, as do discussions of a personal nature.
+mailing list, considerable latitude is allowed. However, there are posts that
+are unsuitable for this mailing list. This document defines the charter for the
+IETF discussion list and explains its scope.
 
 The IETF Note Well {{NOTE-WELL}} applies to discussions on the IETF discussion
 list and all other IETF mailing lists, and requires conformance with the IETF
@@ -159,10 +158,10 @@ moved to dedicated lists:
 
 Inappropriate postings include:
 
-- Unsolicited bulk e-mail
+- Advertising and other unsolicited bulk e-mail
 
 - Discussion of subjects unrelated to IETF policy, meetings, activities, or
-  technical concerns
+  technical topics
 
 - Unprofessional commentary, regardless of the general subject
 
@@ -196,6 +195,8 @@ Susan R. Harris authored {{!RFC3005}}, which this document replaces.
   Carpenter](https://mailarchive.ietf.org/arch/msg/gendispatch/-U2LWKf0VonKnQXs4jPEqIg_L_A)
 - rephrased beginning of {{charter}}, as [suggested by Stephen
   Farrell](https://mailarchive.ietf.org/arch/msg/gendispatch/p73lu-D-WvQrbKBZ80c2T7bbBlQ/)
+- incorporated a [suggestion from Christian
+  Huitema](https://mailarchive.ietf.org/arch/msg/gendispatch/64LgqlIk0h62mAK09Muqn1ccqRE/)
 
 ## Since draft-eggert-bcp45bis-00
 
