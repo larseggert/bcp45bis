@@ -170,24 +170,27 @@ Inappropriate postings include:
 
 # Security Considerations
 
-The IETF Chair, the IETF Executive Director, or a sergeant-at-arms {{SAA-SOP}}
-appointed by the Chair is empowered to restrict posting by a person, or of a
-thread, when the content is inappropriate and represents a pattern of abuse
-{{SAA-UPC}}. They are encouraged to take into account the overall nature of the
-postings by an individual and whether particular postings are an aberration or
-typical. Complaints regarding their decisions should be referred to the IAB.
+A sergeant-at-arms (SAA) appointed by the IETF Chair is empowered to
+restrict posting by a person, or of a thread, when the content is
+inappropriate and represents a pattern of abuse. They are encouraged to
+take into account the overall nature of the postings by an individual
+and whether particular postings are an aberration or typical.
 
-# SAA Considerations for discussion
+The sergeants-at-arms are intended to establish a self-moderation
+function on the community, by the community. The IETF Chair therefore
+SHOULD NOT appoint an SAA who is serving in a NomCom-appointed IETF
+leadership position. If an SAA is selected for such a position, they
+SHOULD consider stepping down as SAA.
 
-The Sergeant-at-arms (SAA) team received some suggestions for a possible 
-update to RFC3005. They are listed for further discussion:
+Apart from appointing SAAs, the IETF Chair SHOULD divorce themselves
+from the operation and management of the SAA team. This has been
+current practice for a number of years already, and the SAA team has
+independently created definitions of abuse patterns {{SAA-UPC}} and
+operating procedures {{SAA-SOP}} for them.
 
-- IETF chair should not appoint an SAA from I* leadership
-
-- IETF chair should be divorced from the SAA team
-
-- IAB power to reverse SAA action needs be listed explicitly 
-
+Because an SAA serves at the discretion of the IETF Chair - even if the
+IETF Chair is not otherwise involved in the operation of the SAA team -
+complaints regarding any SAA decisions should be referred to the IAB.
 
 # IANA Considerations
 
@@ -200,6 +203,12 @@ This document does not request any IANA actions.
 Susan R. Harris authored {{!RFC3005}}, which this document replaces.
 
 # Changes
+
+## Since draft-eggert-bcp45bis-02
+
+- additional details about and guidelines for the SAA team, based on a
+  [suggestion from Dhrov
+  Dhody](https://github.com/larseggert/bcp45bis/pull/1)
 
 ## Since draft-eggert-bcp45bis-01
 
