@@ -177,6 +177,18 @@ thread, when the content is inappropriate and represents a pattern of abuse
 postings by an individual and whether particular postings are an aberration or
 typical. Complaints regarding their decisions should be referred to the IAB.
 
+# SAA Considerations for discussion
+
+The Sergeant-at-arms (SAA) team received some suggestions for a possible 
+update to RFC3005. They are listed for further discussion:
+
+- IETF chair should not appoint an SAA from I* leadership
+
+- IETF chair should be divorced from the SAA team
+
+- IAB power to reverse SAA action needs be listed explicitly 
+
+
 # IANA Considerations
 
 This document does not request any IANA actions.
