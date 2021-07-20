@@ -184,13 +184,13 @@ SHOULD consider stepping down as SAA.
 
 Apart from appointing SAAs, the IETF Chair SHOULD divorce themselves
 from the operation and management of the SAA team. This has been
-current practice for a number of years already, and the SAA team has
-independently created definitions of abuse patterns {{SAA-UPC}} and
-operating procedures {{SAA-SOP}} for them.
+in practice for a while, and the SAA team has
+independently maintained definitions of abuse patterns {{SAA-UPC}} and
+operating procedures {{SAA-SOP}} for them. 
 
 Because an SAA serves at the discretion of the IETF Chair - even if the
 IETF Chair is not otherwise involved in the operation of the SAA team -
-complaints regarding any SAA decisions should be referred to the IAB.
+complaints regarding any SAA decisions should be appealed to the IAB.
 
 # IANA Considerations
 
@@ -207,7 +207,7 @@ Susan R. Harris authored {{!RFC3005}}, which this document replaces.
 ## Since draft-eggert-bcp45bis-02
 
 - additional details about and guidelines for the SAA team, based on a
-  [suggestion from Dhrov
+  [suggestion from Dhruv
   Dhody](https://github.com/larseggert/bcp45bis/pull/1)
 
 ## Since draft-eggert-bcp45bis-01
