@@ -180,7 +180,7 @@ The sergeants-at-arms are intended to establish a self-moderation
 function on the community, by the community. The IETF Chair therefore
 SHOULD NOT appoint an SAA who is serving in a NomCom-appointed IETF
 leadership position. If an SAA is selected for such a position, they
-SHOULD consider stepping down as SAA.
+will step down as SAA.
 
 Apart from appointing SAAs, the IETF Chair SHOULD divorce themselves
 from the operation and management of the SAA team. This has been
