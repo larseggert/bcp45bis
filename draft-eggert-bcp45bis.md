@@ -179,6 +179,15 @@ This document does not request any IANA actions.
 
 # Acknowledgements
 
+The following people have made contributions to this document:
+
+- Brian Carpenter
+- Christian Huitema
+- Dhruv Dhody
+- Eric Rescorla
+- Martin Thomson
+- Stephen Farrell
+
 Susan R. Harris authored {{!RFC3005}}, which this document replaces.
 
 # Changes
