@@ -182,7 +182,7 @@ should not appoint an SAA who is serving in a NomCom-appointed IETF
 leadership position. If an SAA is selected for such a position, they
 will step down as SAA.
 
-Apart from appointing SAAs, the IETF Chair SHOULD divorce themselves
+Apart from appointing SAAs, the IETF Chair should divorce themselves
 from the operation and management of the SAA team. This has been
 in practice for a while, and the SAA team has
 independently maintained definitions of abuse patterns {{SAA-UPC}} and
