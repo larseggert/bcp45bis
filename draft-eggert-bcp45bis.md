@@ -190,7 +190,9 @@ operating procedures {{SAA-SOP}} for them.
 
 Because an SAA serves at the discretion of the IETF Chair - even if the
 IETF Chair is not otherwise involved in the operation of the SAA team -
-complaints regarding any SAA decisions should be appealed to the IAB.
+any SAA decision could be appealed to the IAB. The IAB 
+shall then review the situation and attempt to resolve it in 
+a manner of its own choosing.
 
 # IANA Considerations
 
