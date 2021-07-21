@@ -171,7 +171,7 @@ Inappropriate postings include:
 # Moderation
 
 A sergeant-at-arms (SAA) is an officer appointed by a deliberative body
-to keep order during its meetings {{?SAA-WIKIPEDIA}}.
+to keep order during its meetings {{SAA-WIKIPEDIA}}.
 SAAs for the IETF discussion list are appointed by the IETF Chair and are empowered to
 restrict posting by a person, or of a thread, when the content is
 inappropriate and represents a pattern of abuse. They are encouraged to
