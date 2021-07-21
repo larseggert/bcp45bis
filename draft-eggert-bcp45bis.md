@@ -60,12 +60,6 @@ informative:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/admin-discuss"
 
-  IETF110-ATTENDEES:
-    title: Mailing List for IETF 110 Attendees
-    author:
-    - organization: IETF
-    target: "https://ietf.org/mailman/listinfo/110attendees"
-
   IETF-AHP:
     title: IETF Anti-Harassment Policy
     author:
@@ -124,7 +118,7 @@ among others.
 # Charter for the IETF Discussion List {#charter}
 
 The IETF discussion list is meant for discussions for which a more appropriate
-list does not exists, such as discussions that do not fall within the area of
+list does not exist, such as discussions that do not fall within the area of
 any working group, area or other established list. When discussions are started
 on the IETF discussion list for which such venues do exist, they should be moved
 there as soon as this is pointed out.
@@ -141,7 +135,7 @@ Appropriate postings to the IETF discussion list include:
 - Questions and clarifications concerning  practical aspects of IETF meetings,
   although most of these topics are better brought up on the discussion list for
   IETF LLC administrative issues {{ADMIN-DISCUSS}} or the attendee discussion
-  list for a given IETF meeting, such as {{IETF110-ATTENDEES}} for IETF-110.
+  list for a given IETF meeting.
 
 - Announcements of conferences, events, or activities that are sponsored or
   endorsed by the Internet Society or the IETF, although the IETF announcement
@@ -188,6 +182,11 @@ This document does not request any IANA actions.
 Susan R. Harris authored {{!RFC3005}}, which this document replaces.
 
 # Changes
+
+## Since draft-eggert-bcp45bis-02
+
+- remove reference to the IETF 110 attendees list, since those lists are being
+  removed by the secretariat shoryly after each meeting
 
 ## Since draft-eggert-bcp45bis-01
 
