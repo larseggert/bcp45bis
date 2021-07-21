@@ -162,7 +162,7 @@ Inappropriate postings include:
 - Announcements of conferences, events, or activities that are not sponsored or
   endorsed by the Internet Society or the IETF.
 
-# Security Considerations
+# Moderation
 
 A sergeant-at-arms (SAA) appointed by the IETF Chair is empowered to
 restrict posting by a person, or of a thread, when the content is
@@ -187,6 +187,10 @@ IETF Chair is not otherwise involved in the operation of the SAA team -
 any SAA decision could be appealed to the IAB. The IAB 
 shall then review the situation and attempt to resolve it in 
 a manner of its own choosing.
+
+# Security Considerations
+
+This document does not raise any security issues.
 
 # IANA Considerations
 
