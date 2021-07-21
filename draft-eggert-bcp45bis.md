@@ -79,6 +79,12 @@ informative:
     - organization: IETF
     target: "https://ietf.org/how/lists/nonwglist-guidelines/"
 
+  SAA-WIKIPEDIA:
+    title: Serjeant-at-Arms
+    author:
+    - organization: Wikipedia
+    target: "https://en.wikipedia.org/wiki/Serjeant-at-arms"
+
 --- abstract
 
 The Internet Engineering Task Force (IETF) discussion mailing list furthers the
@@ -164,13 +170,15 @@ Inappropriate postings include:
 
 # Moderation
 
-A sergeant-at-arms (SAA) appointed by the IETF Chair is empowered to
+A sergeant-at-arms (SAA) is an officer appointed by a deliberative body
+to keep order during its meetings {{?SAA-WIKIPEDIA}}.
+SAAs for the IETF discussion list are appointed by the IETF Chair and are empowered to
 restrict posting by a person, or of a thread, when the content is
 inappropriate and represents a pattern of abuse. They are encouraged to
 take into account the overall nature of the postings by an individual
 and whether particular postings are an aberration or typical.
 
-The sergeants-at-arms are intended to establish a self-moderation
+The SAAs are intended to establish a self-moderation
 function on the community, by the community. The IETF Chair therefore
 should not appoint an SAA who is serving in a NomCom-appointed IETF
 leadership position. If an SAA is selected for such a position, they
