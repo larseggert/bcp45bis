@@ -170,32 +170,30 @@ Inappropriate postings include:
 
 # Moderation
 
-A sergeant-at-arms (SAA) is an officer appointed by a deliberative body
-to keep order during its meetings {{SAA-WIKIPEDIA}}.
-SAAs for the IETF discussion list are appointed by the IETF Chair and are empowered to
-restrict posting by a person, or of a thread, when the content is
-inappropriate and represents a pattern of abuse. They are encouraged to
-take into account the overall nature of the postings by an individual
-and whether particular postings are an aberration or typical.
+A sergeant-at-arms (SAA) is an officer appointed by a deliberative body to keep
+order during its meetings {{SAA-WIKIPEDIA}}. SAAs for the IETF discussion list
+are appointed by the IETF Chair and are empowered to restrict posting by a
+person, or of a thread, when the content is inappropriate and represents a
+pattern of abuse. They are encouraged to take into account the overall nature
+of the postings by an individual and whether particular postings are an
+aberration or typical.
 
-The SAAs are intended to establish a self-moderation
-function on the community, by the community. The IETF Chair therefore
-should not appoint an SAA who is serving in a NomCom-appointed IETF
-leadership position. If an SAA is selected for such a position, they
-will step down as SAA.
+The SAAs are intended to establish a self-moderation function on the community,
+by the community. The IETF Chair therefore should not appoint an SAA who is
+serving in a NomCom-appointed IETF leadership position. If an SAA is selected
+for such a position, they will step down as SAA.
 
-Apart from appointing SAAs, the IETF Chair should divorce themselves
-from the day-to-day operation and management of the SAA team. This 
-has been in practice for a while, and the SAA team has independently 
-maintained definitions of abuse patterns {{SAA-UPC}} and operating 
-procedures {{SAA-SOP}} for them. The SAA team should reach out to 
-the IETF Chair for any conflict resolution in a timely manner.
+Apart from appointing SAAs, the IETF Chair should divorce themselves from the
+day-to-day operation and management of the SAA team. This has been in practice
+for a while, and the SAA team has independently maintained definitions of abuse
+patterns {{SAA-UPC}} and operating procedures {{SAA-SOP}} for them. The SAA
+team should reach out to the IETF Chair for any conflict resolution in a timely
+manner.
 
-Because an SAA serves at the discretion of the IETF Chair - even if the
-IETF Chair is not otherwise involved in the operation of the SAA team -
-any SAA decision could be appealed to the IAB. The IAB 
-shall then review the situation and attempt to resolve it in 
-a manner of its own choosing.
+Because an SAA serves at the discretion of the IETF Chair - even if the IETF
+Chair is not otherwise involved in the operation of the SAA team - any SAA
+decision could be appealed to the IAB. The IAB shall then review the situation
+and attempt to resolve it in a manner of its own choosing.
 
 # Security Considerations
 
