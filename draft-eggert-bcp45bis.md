@@ -185,15 +185,11 @@ leadership position. If an SAA is selected for such a position, they
 will step down as SAA.
 
 Apart from appointing SAAs, the IETF Chair should divorce themselves
-from the operation and management of the SAA team. This has been
-in practice for a while, and the SAA team has
-independently maintained definitions of abuse patterns {{SAA-UPC}} and
-Apart from appointing SAAs, the IETF Chair should divorce themselves
 from the day-to-day operation and management of the SAA team. This 
 has been in practice for a while, and the SAA team has independently 
 maintained definitions of abuse patterns {{SAA-UPC}} and operating 
 procedures {{SAA-SOP}} for them. The SAA team should reach out to 
-the IETF chair for any conflict resolution in a timely manner.
+the IETF Chair for any conflict resolution in a timely manner.
 
 Because an SAA serves at the discretion of the IETF Chair - even if the
 IETF Chair is not otherwise involved in the operation of the SAA team -
