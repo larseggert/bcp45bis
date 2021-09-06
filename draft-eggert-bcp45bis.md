@@ -91,7 +91,9 @@ The Internet Engineering Task Force (IETF) discussion mailing list furthers the
 development and specification of Internet technology through the general
 discussion of topics for which no dedicated mailing lists exists. As this is the
 most general IETF mailing list, considerable latitude is allowed, but there are
-posts that are unsuitable for this mailing list.
+posts and topics that are unsuitable for this mailing list.
+
+**RW: Perhaps and/or topics.  Note, this phrase is also used in the intro text.**
 
 This document obsoletes RFC3005.
 
@@ -126,8 +128,11 @@ among others.
 The IETF discussion list is meant for discussions for which a more appropriate
 list does not exist, such as discussions that do not fall within the area of
 any working group, area or other established list. When discussions are started
-on the IETF discussion list for which such venues do exist, they should be moved
-there as soon as this is pointed out.
+on the IETF discussion list for which such venues do exist, they should be
+continued there as soon as this is pointed out.
+
+**RW: 'Move' could be taken as the existing posts are moved?  Is 'continued' better?**
+
 
 When no dedicated mailing list exists, it may be preferable to request the
 creation of one {{NON-WG-LISTS}} and only announce the availability of the new
@@ -138,7 +143,7 @@ Appropriate postings to the IETF discussion list include:
 - Initial discussion of technical issues that are candidates for IETF work, but
   have not yet identified appropriate mailing lists.
 
-- Questions and clarifications concerning  practical aspects of IETF meetings,
+- Questions and clarifications concerning practical aspects of IETF meetings,
   although most of these topics are better brought up on the discussion list for
   IETF LLC administrative issues {{ADMIN-DISCUSS}} or the attendee discussion
   list for a given IETF meeting.
@@ -178,6 +183,8 @@ pattern of abuse. They are encouraged to take into account the overall nature
 of the postings by an individual and whether particular postings are an
 aberration or typical.
 
+**RW: Should it be possible to appeal the IETF chairs appointment of an SAA individual, i.e., via the same process as below?  I presume so (like any decision), but would it be helpful for this to be stated?**
+
 The SAAs are intended to establish a self-moderation function on the community,
 by the community. The IETF Chair therefore should not appoint an SAA who is
 serving in a NomCom-appointed IETF leadership position. If an SAA is selected
@@ -195,6 +202,8 @@ Chair is not otherwise involved in the operation of the SAA team - any SAA
 decision could be appealed to the IAB. The IAB shall then review the situation
 and attempt to resolve it in a manner of its own choosing.
 
+**RW: Just to check, is it right that appeals immediately goes to the IAB, and not the IESG first?**
+
 # Security Considerations
 
 This document does not raise any security issues.
@@ -202,6 +211,8 @@ This document does not raise any security issues.
 # IANA Considerations
 
 This document does not request any IANA actions.
+
+**RW: Should RFC3005 be an informative reference, given that this document obsoletes it?**
 
 --- back
 
@@ -226,7 +237,7 @@ Susan R. Harris authored {{!RFC3005}}, which this document replaces.
   [suggestion from Dhruv
   Dhody](https://github.com/larseggert/bcp45bis/pull/1)
 - remove reference to the IETF 110 attendees list, since those lists are being
-  removed by the secretariat shoryly after each meeting
+  removed by the secretariat shortly after each meeting
 
 ## Since draft-eggert-bcp45bis-01
 
