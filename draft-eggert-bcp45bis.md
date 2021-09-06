@@ -214,11 +214,16 @@ The following people have made contributions to this document:
 - Dhruv Dhody
 - Eric Rescorla
 - Martin Thomson
+- Robert Wilton
 - Stephen Farrell
 
-Susan R. Harris authored {{!RFC3005}}, which this document replaces.
+Susan R. Harris authored {{?RFC3005}}, which this document replaces.
 
 # Changes
+
+## Since draft-eggert-bcp45bis-03
+
+- addressed Robert Wilton's AD review
 
 ## Since draft-eggert-bcp45bis-02
 
