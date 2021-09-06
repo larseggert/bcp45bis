@@ -91,7 +91,7 @@ The Internet Engineering Task Force (IETF) discussion mailing list furthers the
 development and specification of Internet technology through the general
 discussion of topics for which no dedicated mailing lists exists. As this is the
 most general IETF mailing list, considerable latitude is allowed, but there are
-posts that are unsuitable for this mailing list.
+posts and topics that are unsuitable for this mailing list.
 
 This document obsoletes RFC3005.
 
@@ -112,9 +112,9 @@ list for this draft can be found at [](https://github.com/larseggert/bcp45bis).
 The IETF discussion list {{IETF-DISCUSS}} furthers the development and
 specification of Internet technology through the general discussion of topics
 for which no dedicated mailing lists exists. As this is the most general IETF
-mailing list, considerable latitude is allowed. However, there are posts that
-are unsuitable for this mailing list. This document defines the charter for the
-IETF discussion list and explains its scope.
+mailing list, considerable latitude is allowed. However, there are posts and
+topics that are unsuitable for this mailing list. This document defines the
+charter for the IETF discussion list and explains its scope.
 
 The IETF Note Well {{NOTE-WELL}} applies to discussions on the IETF discussion
 list and all other IETF mailing lists, and requires conformance with the IETF
@@ -126,8 +126,8 @@ among others.
 The IETF discussion list is meant for discussions for which a more appropriate
 list does not exist, such as discussions that do not fall within the area of
 any working group, area or other established list. When discussions are started
-on the IETF discussion list for which such venues do exist, they should be moved
-there as soon as this is pointed out.
+on the IETF discussion list for which such venues do exist, they should be
+continued there as soon as this is pointed out.
 
 When no dedicated mailing list exists, it may be preferable to request the
 creation of one {{NON-WG-LISTS}} and only announce the availability of the new
@@ -138,7 +138,7 @@ Appropriate postings to the IETF discussion list include:
 - Initial discussion of technical issues that are candidates for IETF work, but
   have not yet identified appropriate mailing lists.
 
-- Questions and clarifications concerning  practical aspects of IETF meetings,
+- Questions and clarifications concerning practical aspects of IETF meetings,
   although most of these topics are better brought up on the discussion list for
   IETF LLC administrative issues {{ADMIN-DISCUSS}} or the attendee discussion
   list for a given IETF meeting.
@@ -226,7 +226,7 @@ Susan R. Harris authored {{!RFC3005}}, which this document replaces.
   [suggestion from Dhruv
   Dhody](https://github.com/larseggert/bcp45bis/pull/1)
 - remove reference to the IETF 110 attendees list, since those lists are being
-  removed by the secretariat shoryly after each meeting
+  removed by the secretariat shortly after each meeting
 
 ## Since draft-eggert-bcp45bis-01
 
