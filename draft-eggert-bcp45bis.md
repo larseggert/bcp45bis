@@ -209,6 +209,7 @@ This document does not request any IANA actions.
 
 The following people have made contributions to this document:
 
+- Barry Leiba
 - Brian Carpenter
 - Christian Huitema
 - Dhruv Dhody
@@ -225,6 +226,8 @@ Susan R. Harris authored {{?RFC3005}}, which this document replaces.
 
 - addressed [Robert Wilton's AD
   review](https://github.com/larseggert/bcp45bis/pull/5)
+- addressed [comments from Barry
+  Leiba](https://github.com/larseggert/bcp45bis/pull/6)
 
 ## Since draft-eggert-bcp45bis-02
 
