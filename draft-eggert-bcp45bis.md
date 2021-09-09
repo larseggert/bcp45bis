@@ -150,7 +150,7 @@ Appropriate postings to the IETF discussion list include:
 These topics used to be in scope for the IETF discussion list, but have since
 moved to dedicated lists:
 
-- Last Call discussions of proposed protocol actions now take place on the IETF
+- Last Call discussions of proposed document actions now take place on the IETF
   Last Calls mailing list {{LAST-CALLS}}.
 
 - Discussion of IETF administrative policies now take place on the discussion
@@ -183,7 +183,7 @@ by the community. The IETF Chair therefore should not appoint an SAA who is
 serving in a NomCom-appointed IETF leadership position. If an SAA is selected
 for such a position, they will step down as SAA.
 
-Apart from appointing SAAs, the IETF Chair should divorce themselves from the
+Apart from appointing SAAs, the IETF Chair should stay away from the
 day-to-day operation and management of the SAA team. This has been in practice
 for a while, and the SAA team has independently maintained definitions of abuse
 patterns {{SAA-UPC}} and operating procedures {{SAA-SOP}} for them. The SAA
@@ -209,6 +209,7 @@ This document does not request any IANA actions.
 
 The following people have made contributions to this document:
 
+- Barry Leiba
 - Brian Carpenter
 - Christian Huitema
 - Dhruv Dhody
@@ -225,6 +226,8 @@ Susan R. Harris authored {{?RFC3005}}, which this document replaces.
 
 - addressed [Robert Wilton's AD
   review](https://github.com/larseggert/bcp45bis/pull/5)
+- addressed [comments from Barry
+  Leiba](https://github.com/larseggert/bcp45bis/pull/6)
 
 ## Since draft-eggert-bcp45bis-02
 
