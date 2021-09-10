@@ -225,6 +225,7 @@ Susan R. Harris authored {{?RFC3005}}, which this document replaces.
 
 - addressed [Robert Wilton's AD
   review](https://github.com/larseggert/bcp45bis/pull/5)
+- use [RFC2026 appeals process](https://github.com/larseggert/bcp45bis/pull/7)
 
 ## Since draft-eggert-bcp45bis-02
 
