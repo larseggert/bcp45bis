@@ -192,8 +192,8 @@ manner.
 
 Because an SAA serves at the discretion of the IETF Chair - even if the IETF
 Chair is not otherwise involved in the operation of the SAA team - any SAA
-decision could be appealed to the IAB. The IAB shall then review the situation
-and attempt to resolve it in a manner of its own choosing.
+decision can be appealed to the IETF Chair, per {{!RFC2026}}. Decisions by the
+IETF Chair can be appealed to the IESG as whole, again per {{!RFC2026}}.
 
 # Security Considerations
 
@@ -226,6 +226,7 @@ Susan R. Harris authored {{?RFC3005}}, which this document replaces.
 
 - addressed [Robert Wilton's AD
   review](https://github.com/larseggert/bcp45bis/pull/5)
+- use [RFC2026 appeals process](https://github.com/larseggert/bcp45bis/pull/7)
 - addressed [comments from Barry
   Leiba](https://github.com/larseggert/bcp45bis/pull/6)
 
