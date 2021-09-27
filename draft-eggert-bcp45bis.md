@@ -144,7 +144,7 @@ Appropriate postings to the IETF discussion list include:
   list for a given IETF meeting.
 
 - Announcements of conferences, events, or activities that are sponsored or
-  endorsed by the Internet Society or the IETF, although the IETF announcement
+  endorsed by the the IETF, although the IETF announcement
   list {{IETF-ANNOUNCE}} is the preferred list for these.
 
 These topics used to be in scope for the IETF discussion list, but have since
