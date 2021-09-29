@@ -166,7 +166,7 @@ Inappropriate postings include:
 - Unprofessional commentary, regardless of the general subject
 
 - Announcements of conferences, events, or activities that are not sponsored or
-  endorsed by the Internet Society or the IETF.
+  endorsed by the IETF.
 
 # Moderation
 
