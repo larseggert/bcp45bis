@@ -85,6 +85,12 @@ informative:
     - organization: Wikipedia
     target: "https://en.wikipedia.org/wiki/Serjeant-at-arms"
 
+  ARCH-DISCUSS:
+    title: Open Discussion Forum For Long/Wide-Range Architectural Issues
+    author:
+    - organization: IAB
+    target: "https://ietf.org/mailman/listinfo/architecture-discuss"
+
 --- abstract
 
 The Internet Engineering Task Force (IETF) discussion mailing list furthers the
@@ -146,6 +152,12 @@ Appropriate postings to the IETF discussion list include:
 - Announcements of conferences, events, or activities that are sponsored or
   endorsed by the Internet Society or the IETF, although the IETF announcement
   list {{IETF-ANNOUNCE}} is the preferred list for these.
+
+- Discussions of IETF direction, policy, and the standards process in general,
+  when a more suitable list (such as the discussion list for IETF LLC
+  administrative issues {{ADMIN-DISCUSS}}, the IAB discussion list for
+  architectural issues {{ARCH-DISCUSS}}, a meeting attendees list, or a
+  process-oriented WG list) cannot be identified.
 
 These topics used to be in scope for the IETF discussion list, but have since
 moved to dedicated lists:
