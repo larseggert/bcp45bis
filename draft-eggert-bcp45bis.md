@@ -156,8 +156,8 @@ Appropriate postings to the IETF discussion list include:
 - Discussions of IETF direction, policy, and the standards process in general,
   when a more suitable list (such as the discussion list for IETF LLC
   administrative issues {{ADMIN-DISCUSS}}, the IAB discussion list for
-  architectural issues {{ARCH-DISCUSS}}, a meeting attendees list, or a
-  process-oriented WG list) cannot be identified.
+  architectural issues {{ARCH-DISCUSS}}, a meeting attendees list, a
+  process-oriented WG list, etc.) cannot be identified.
 
 These topics used to be in scope for the IETF discussion list, but have since
 moved to dedicated lists:
