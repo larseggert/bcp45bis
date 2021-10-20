@@ -25,12 +25,14 @@ author:
 informative:
   SAA-SOP:
     title: Sergeant-at-Arms Standard Operating Procedures
+    date: 2021-10-20
     author:
     - organization: IETF Sergeants-at-Arms
     target: "https://github.com/ietf/saa/blob/master/sop.md"
 
   SAA-UPC:
     title: Unprofessional Commentary
+    date: 2021-10-20
     author:
     - organization: IETF Sergeants-at-Arms
     target:
@@ -38,30 +40,35 @@ informative:
 
   LAST-CALLS:
     title: IETF Last Calls
+    date: 2021-10-20
     author:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/last-call"
 
   IETF-DISCUSS:
     title: IETF Discussion List
+    date: 2021-10-20
     author:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/ietf"
 
   IETF-ANNOUNCE:
     title: IETF Announcement List
+    date: 2021-10-20
     author:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/ietf-announce"
 
   ADMIN-DISCUSS:
     title: Discussion List for IETF LLC Administrative Issues
+    date: 2021-10-20
     author:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/admin-discuss"
 
   IETF-AHP:
     title: IETF Anti-Harassment Policy
+    date: 2021-10-20
     author:
     - organization: IETF
     target:
@@ -69,24 +76,28 @@ informative:
 
   NOTE-WELL:
     title: Note Well
+    date: 2021-10-20
     author:
     - organization: IETF
     target: "https://ietf.org/about/note-well/"
 
   NON-WG-LISTS:
     title: Non-Working Group Email List Guidelines
+    date: 2021-10-20
     author:
     - organization: IETF
     target: "https://ietf.org/how/lists/nonwglist-guidelines/"
 
   SAA-WIKIPEDIA:
     title: Serjeant-at-Arms
+    date: 2021-10-20
     author:
     - organization: Wikipedia
     target: "https://en.wikipedia.org/wiki/Serjeant-at-arms"
 
   ARCH-DISCUSS:
     title: Open Discussion Forum For Long/Wide-Range Architectural Issues
+    date: 2021-10-20
     author:
     - organization: IAB
     target: "https://ietf.org/mailman/listinfo/architecture-discuss"
