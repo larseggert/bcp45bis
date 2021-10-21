@@ -237,6 +237,7 @@ The following people have made contributions to this document:
 - Christian Huitema
 - Dhruv Dhody
 - Eric Rescorla
+- Lloyd Wood
 - Martin Thomson
 - Robert Wilton
 - Stephen Farrell
@@ -245,13 +246,29 @@ Susan R. Harris authored {{?RFC3005}}, which this document replaces.
 
 # Changes
 
+## Since draft-eggert-bcp45bis-06
+
+- applied a [suggestion from Lloyd
+  Wood](https://mailarchive.ietf.org/arch/msg/ietf/jVF496BFjekl9eVx1q9sqDIqOCs)
+  to add access dates to cited URLs
+- fixes to this change log
+
+## Since draft-eggert-bcp45bis-05
+
+- clarification of list scope as [suggested by Brian
+  Carpenter](https://github.com/larseggert/bcp45bis/pull/10)
+
+## Since draft-eggert-bcp45bis-04
+
+- use [RFC2026 appeals process](https://github.com/larseggert/bcp45bis/pull/7)
+- addressed [comments from Barry
+  Leiba](https://github.com/larseggert/bcp45bis/pull/6)
+- quote cited text from Wikipedia
+
 ## Since draft-eggert-bcp45bis-03
 
 - addressed [Robert Wilton's AD
   review](https://github.com/larseggert/bcp45bis/pull/5)
-- use [RFC2026 appeals process](https://github.com/larseggert/bcp45bis/pull/7)
-- addressed [comments from Barry
-  Leiba](https://github.com/larseggert/bcp45bis/pull/6)
 
 ## Since draft-eggert-bcp45bis-02
 
