@@ -186,7 +186,7 @@ Inappropriate postings include:
 - Discussion of subjects unrelated to IETF policy, meetings, activities, or
   technical topics
 
-- Unprofessional commentary, regardless of the general subject
+- Uncivil commentary, regardless of the general subject
 
 - Announcements of conferences, events, or activities that are not sponsored or
   endorsed by the Internet Society or the IETF.
@@ -252,6 +252,8 @@ Susan R. Harris authored {{?RFC3005}}, which this document replaces.
   Wood](https://mailarchive.ietf.org/arch/msg/ietf/jVF496BFjekl9eVx1q9sqDIqOCs)
   to add access dates to cited URLs
 - fixes to this change log
+- applied a suggestion from Brian Carpenter to change "unprofessional" to
+  "uncivil"
 
 ## Since draft-eggert-bcp45bis-05
 
