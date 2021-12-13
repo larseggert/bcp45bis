@@ -23,18 +23,18 @@ author:
   uri: "https://eggert.org/"
 
 informative:
-  SAA-SOP:
-    title: Sergeant-at-Arms Standard Operating Procedures
+  MOD-SOP:
+    title: IETF Discussion List Moderator Team Standard Operating Procedures
     date: 2021-10-20
     author:
-    - organization: IETF Sergeants-at-Arms
+    - organization: IETF Discussion List Moderator Team
     target: "https://github.com/ietf/saa/blob/main/sop.md"
 
-  SAA-UPC:
+  MOD-UPC:
     title: Unprofessional Commentary
     date: 2021-10-20
     author:
-    - organization: IETF Sergeants-at-Arms
+    - organization: IETF Discussion List Moderator Team
     target:
       "https://github.com/ietf/saa/blob/main/unprofessional-commentary.md"
 
@@ -80,13 +80,6 @@ informative:
     - organization: IETF
     target: "https://ietf.org/how/lists/nonwglist-guidelines/"
 
-  SAA-WIKIPEDIA:
-    title: Serjeant-at-Arms
-    date: 2021-10-20
-    author:
-    - organization: Wikipedia
-    target: "https://en.wikipedia.org/wiki/Serjeant-at-arms"
-
   ARCH-DISCUSS:
     title: Open Discussion Forum For Long/Wide-Range Architectural Issues
     date: 2021-10-20
@@ -106,7 +99,7 @@ This document obsoletes RFC3005.
 
 --- middle
 
-# Introduction
+# Introduction {#intro}
 
 The IETF discussion list {{IETF-DISCUSS}} furthers the development and
 specification of Internet technology through the general discussion of topics
@@ -121,10 +114,10 @@ Guidelines for Conduct {{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}},
 among others.
 
 This document obsoletes {{?RFC3005}}, documenting the use of other mailing
-lists for dicussions that used to be in scope for the IETF discussion list,
-refering to applicable policies such as the Guidelines for Conduct
+lists for discussions that used to be in scope for the IETF discussion list,
+referring to applicable policies such as the Guidelines for Conduct
 {{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}}, and clarifying
-sergeant-at-arms procedures.
+moderation procedures.
 
 # Charter for the IETF Discussion List {#charter}
 
@@ -182,31 +175,34 @@ Inappropriate postings include:
 
 # Moderation
 
-A sergeant-at-arms (SAA) "is an officer appointed by a deliberative body (...)
-to keep order during its meetings" {{SAA-WIKIPEDIA}}. SAAs for the IETF
+Moderators (previously known as the "sergeant-at-arms") for the IETF
 discussion list are appointed by the IETF Chair and are empowered to restrict
 posting by a person, or of a thread, when the content is inappropriate and
 represents a pattern of abuse. They are encouraged to take into account the
 overall nature of the postings by an individual and whether particular postings
 are an aberration or typical.
 
-The SAAs are intended to establish a self-moderation function on the community,
-by the community. Because the IESG and IAB are in the appeals chain for SAA
-decisions (see below), the IETF Chair therefore should not appoint an SAA who is
-serving in such a role. If an SAA is selected for the IESG or IAB, they will
-step down as SAA.
+Moderation of the IETF discussion list, including the handling of any appeals,
+is to be guided by the IETF discussion list charter specified in
+{{charter}}, and the related guidance from {{intro}} that applies to all mailing
+lists. The moderators are intended to establish a self-moderation function on
+the community, by the community. Because the IESG and IAB are in the appeals
+chain for moderator decisions (see below), the IETF Chair therefore should not
+appoint a moderator who is serving in such a role. If a moderator is selected
+for the IESG or IAB, they will step down from the moderator team.
 
-Apart from appointing SAAs, the IETF Chair should stay away from the
-day-to-day operation and management of the SAA team. This has been in practice
-for a while, and the SAA team has independently maintained definitions of abuse
-patterns {{SAA-UPC}} and operating procedures {{SAA-SOP}} for them. The SAA
-team should reach out to the IETF Chair for any conflict resolution in a timely
-manner.
+Apart from appointing moderators, the IETF Chair should stay away from the
+day-to-day operation and management of the moderator team. This has been in
+practice for a while, and the moderator team has independently maintained
+definitions of abuse patterns {{MOD-UPC}} and operating procedures
+{{MOD-SOP}} for them. The moderator team should reach out to the IETF Chair for
+any conflict resolution in a timely manner.
 
-Because an SAA serves at the discretion of the IETF Chair - even if the IETF
-Chair is not otherwise involved in the operation of the SAA team - any SAA
-decision can be appealed to the IETF Chair, per {{!RFC2026}}. Decisions by the
-IETF Chair can be appealed to the IESG as whole, again per {{!RFC2026}}.
+Because a moderator serves at the discretion of the IETF Chair - even if the
+IETF Chair is not otherwise involved in the operation of the moderator team -
+any moderator decision can be appealed to the IETF Chair, per
+{{!RFC2026}}. Decisions by the IETF Chair can be appealed to the IESG as whole,
+again per {{!RFC2026}}.
 
 # Security Considerations
 
@@ -228,6 +224,8 @@ This document does not request any IANA actions.
   Farrel](https://mailarchive.ietf.org/arch/msg/last-call/bt79VpEeM4iAiFVD5vtxHAa_kdc)
 - incorporated some suggestions from [S
   Moonesamy](https://mailarchive.ietf.org/arch/msg/last-call/xQoWLovElvnS80ZPgHquAwJs3Mw)
+- applied suggestions from [Robert
+  Wilton](https://mailarchive.ietf.org/arch/msg/last-call/qCC0p5Yow7AOQLo8T3862jPl4i0)
 
 ## Since draft-eggert-bcp45bis-06
 
