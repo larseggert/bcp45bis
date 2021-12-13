@@ -28,7 +28,7 @@ informative:
     date: 2021-10-20
     author:
     - organization: IETF Sergeants-at-Arms
-    target: "https://github.com/ietf/saa/blob/master/sop.md"
+    target: "https://github.com/ietf/saa/blob/main/sop.md"
 
   SAA-UPC:
     title: Unprofessional Commentary
@@ -36,7 +36,7 @@ informative:
     author:
     - organization: IETF Sergeants-at-Arms
     target:
-      "https://github.com/ietf/saa/blob/master/unprofessional-commentary.md"
+      "https://github.com/ietf/saa/blob/main/unprofessional-commentary.md"
 
   LAST-CALLS:
     title: IETF Last Calls
@@ -65,14 +65,6 @@ informative:
     author:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/admin-discuss"
-
-  IETF-AHP:
-    title: IETF Anti-Harassment Policy
-    date: 2021-10-20
-    author:
-    - organization: IETF
-    target:
-      "https://ietf.org/about/groups/iesg/statements/anti-harassment-policy/"
 
   NOTE-WELL:
     title: Note Well
@@ -112,16 +104,6 @@ posts and topics that are unsuitable for this mailing list.
 
 This document obsoletes RFC3005.
 
---- note_Note_to_Readers
-
-Discussion of this draft takes place on the [GENDISPATCH working group mailing
-list](mailto:gendispatch@ietf.org), which is archived at
-[](https://mailarchive.ietf.org/arch/browse/gendispatch/).
-
-Working Group information can be found at
-[](https://datatracker.ietf.org/wg/gendispatch/); source code and the issues
-list for this draft can be found at [](https://github.com/larseggert/bcp45bis).
-
 --- middle
 
 # Introduction
@@ -135,19 +117,25 @@ charter for the IETF discussion list and explains its scope.
 
 The IETF Note Well {{NOTE-WELL}} applies to discussions on the IETF discussion
 list and all other IETF mailing lists, and requires conformance with the IETF
-Guidelines for Conduct {{?RFC7154}} and the Anti-Harassment Policy {{IETF-AHP}},
+Guidelines for Conduct {{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}},
 among others.
+
+This document obsoletes {{?RFC3005}}, documenting the use of other mailing
+lists for dicussions that used to be in scope for the IETF discussion list,
+refering to applicable policies such as the Guidelines for Conduct
+{{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}}, and clarifying
+sergeant-at-arms procedures.
 
 # Charter for the IETF Discussion List {#charter}
 
 The IETF discussion list is meant for discussions for which a more appropriate
-list does not exist, such as discussions that do not fall within the area of
-any working group, area or other established list. When discussions are started
-on the IETF discussion list for which such venues do exist, they should be
-continued there as soon as this is pointed out.
+list does not exist, such as discussions that do not fall within the scope of
+any working group, area, or other established list. When discussions are
+started on the IETF discussion list for which such a venue does exist, they
+should be continued at that other venue as soon as this is pointed out.
 
 When no dedicated mailing list exists, it may be preferable to request the
-creation of one {{NON-WG-LISTS}} and only announce the availability of the new
+creation of one {{NON-WG-LISTS}} and announce the availability of the new
 list on the IETF discussion list and on other related lists, such as area lists.
 
 Appropriate postings to the IETF discussion list include:
@@ -186,7 +174,8 @@ Inappropriate postings include:
 - Discussion of subjects unrelated to IETF policy, meetings, activities, or
   technical topics
 
-- Uncivil commentary, regardless of the general subject
+- Uncivil commentary, regardless of the general subject, per the IETF Note Well
+  {{NOTE-WELL}}
 
 - Announcements of conferences, events, or activities that are not sponsored or
   endorsed by the Internet Society or the IETF.
@@ -202,9 +191,10 @@ overall nature of the postings by an individual and whether particular postings
 are an aberration or typical.
 
 The SAAs are intended to establish a self-moderation function on the community,
-by the community. The IETF Chair therefore should not appoint an SAA who is
-serving in a NomCom-appointed IETF leadership position. If an SAA is selected
-for such a position, they will step down as SAA.
+by the community. Because the IESG and IAB are in the appeals chain for SAA
+decisions (see below), the IETF Chair therefore should not appoint an SAA who is
+serving in such a role. If an SAA is selected for the IESG or IAB, they will
+step down as SAA.
 
 Apart from appointing SAAs, the IETF Chair should stay away from the
 day-to-day operation and management of the SAA team. This has been in practice
@@ -228,23 +218,16 @@ This document does not request any IANA actions.
 
 --- back
 
-# Acknowledgements
-
-The following people have made contributions to this document:
-
-- Barry Leiba
-- Brian Carpenter
-- Christian Huitema
-- Dhruv Dhody
-- Eric Rescorla
-- Lloyd Wood
-- Martin Thomson
-- Robert Wilton
-- Stephen Farrell
-
-Susan R. Harris authored {{?RFC3005}}, which this document replaces.
-
 # Changes
+
+{:aside}
+> RFC Editor: Please remove this appendix before publication.
+
+## Since draft-eggert-bcp45bis-07
+- incorporated suggestions from [Adrian
+  Farrel](https://mailarchive.ietf.org/arch/msg/last-call/bt79VpEeM4iAiFVD5vtxHAa_kdc)
+- incorporated some suggestions from [S
+  Moonesamy](https://mailarchive.ietf.org/arch/msg/last-call/xQoWLovElvnS80ZPgHquAwJs3Mw)
 
 ## Since draft-eggert-bcp45bis-06
 
@@ -304,3 +287,22 @@ Susan R. Harris authored {{?RFC3005}}, which this document replaces.
 - updated references (as part of the conversion)
 - updated author information
 - various formatting changes
+
+# Acknowledgements
+{: numbered="no"}
+
+The following people have made contributions to this document:
+
+- Adrian Farrel
+- Barry Leiba
+- Brian Carpenter
+- Christian Huitema
+- Dhruv Dhody
+- Eric Rescorla
+- Lloyd Wood
+- Martin Thomson
+- Robert Wilton
+- S Moonesamy
+- Stephen Farrell
+
+Susan R. Harris authored {{?RFC3005}}, which this document replaces.
