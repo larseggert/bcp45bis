@@ -301,6 +301,7 @@ The following people have made contributions to this document:
 - Christian Huitema
 - Dhruv Dhody
 - Eric Rescorla
+- Éric Vyncke
 - Lloyd Wood
 - Martin Thomson
 - Robert Wilton
