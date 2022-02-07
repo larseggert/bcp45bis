@@ -142,8 +142,8 @@ Appropriate postings to the IETF discussion list include:
   list for a given IETF meeting.
 
 - Announcements of conferences, events, or activities that are sponsored or
-  endorsed by the Internet Society or the IETF, although the IETF announcement
-  list {{IETF-ANNOUNCE}} is the preferred list for these.
+  endorsed by the IETF, IRTF, IAB or the Internet Society, although the IETF
+  announcement list {{IETF-ANNOUNCE}} is the preferred list for these.
 
 - Discussions of IETF direction, policy, and the standards process in general,
   when a more suitable list (such as the discussion list for IETF LLC
@@ -218,6 +218,10 @@ This document does not request any IANA actions.
 
 {:aside}
 > RFC Editor: Please remove this appendix before publication.
+
+## Since draft-eggert-bcp45bis-08
+- addressed [Éric Vyncke's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_eric-vyncke)
 
 ## Since draft-eggert-bcp45bis-07
 - incorporated suggestions from [Adrian
