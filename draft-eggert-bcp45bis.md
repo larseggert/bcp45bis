@@ -222,6 +222,8 @@ This document does not request any IANA actions.
 ## Since draft-eggert-bcp45bis-08
 - addressed [Éric Vyncke's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_eric-vyncke)
+- addressed [John Scudder's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_john-scudder)
 
 ## Since draft-eggert-bcp45bis-07
 - incorporated suggestions from [Adrian
