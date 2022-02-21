@@ -2,6 +2,7 @@
 
 title: IETF Discussion List Charter
 docname: draft-eggert-bcp45bis-latest
+submissionType: IETF
 date: {DATE}
 category: bcp
 ipr: pre5378Trust200902
@@ -176,12 +177,12 @@ Inappropriate postings include:
 - Announcements of conferences, events, or activities that are not sponsored or
   endorsed by the Internet Society or the IETF.
 
-# Moderation
+# Moderation {#mod}
 
-Moderators (previously known as the "sergeant-at-arms") for the IETF
-discussion list are appointed by the IETF Chair and are empowered to restrict
-posting by a person, or on a thread, when the content is inappropriate and
-represents a pattern of abuse. They are encouraged to take into account the
+The IETF Chair appoints *Moderators* (previously known as
+the "sergeant-at-arms") for the IETF discussion list that are empowered to
+restrict posting by a person, or on a thread, when the content is inappropriate
+and represents a pattern of abuse. They are encouraged to take into account the
 overall nature of the postings by an individual and whether particular postings
 are an aberration or typical.
 
@@ -209,7 +210,11 @@ again per {{!RFC2026}}.
 
 # Security Considerations
 
-This document does not raise any security issues.
+The usual security considerations {{?RFC3552}} do not apply to this document.
+
+Potential abuse of the moderation process for the suppression of undesired
+opinions is counteracted by the availability of an appeals process, per
+{{mod}}.
 
 # IANA Considerations
 
