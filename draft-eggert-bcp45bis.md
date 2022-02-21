@@ -127,9 +127,11 @@ any working group, area, or other established list. When discussions are
 started on the IETF discussion list for which such a venue does exist, they
 should be continued at that other venue as soon as this is pointed out.
 
-When no dedicated mailing list exists, it may be preferable to request the
-creation of one {{NON-WG-LISTS}} and announce the availability of the new
-list on the IETF discussion list and on other related lists, such as area lists.
+When no dedicated mailing list exists for a topic, it may be preferable to
+request the creation of one {{NON-WG-LISTS}} and announce the
+availability of the new list on the IETF discussion list and on other
+related lists, such as area lists, rather than discussing that topic on
+the IETF discussion list.
 
 Appropriate postings to the IETF discussion list include:
 
@@ -154,7 +156,7 @@ Appropriate postings to the IETF discussion list include:
 These topics used to be in scope for the IETF discussion list, but have since
 moved to dedicated lists:
 
-- Last Call discussions of proposed document actions now take place on the IETF
+- Last Call discussions of documents now take place on the IETF
   Last Calls mailing list {{LAST-CALLS}}.
 
 - Discussion of IETF administrative policies now take place on the discussion
@@ -222,6 +224,8 @@ This document does not request any IANA actions.
 ## Since draft-eggert-bcp45bis-08
 - addressed [Éric Vyncke's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_eric-vyncke)
+- addressed [Ben Kaduk's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_benjamin-kaduk)
 
 ## Since draft-eggert-bcp45bis-07
 - incorporated suggestions from [Adrian
@@ -297,6 +301,7 @@ The following people have made contributions to this document:
 
 - Adrian Farrel
 - Barry Leiba
+- Ben Kaduk
 - Brian Carpenter
 - Christian Huitema
 - Dhruv Dhody
