@@ -91,9 +91,11 @@ informative:
 
 The Internet Engineering Task Force (IETF) discussion mailing list furthers the
 development and specification of Internet technology through the general
-discussion of topics for which no dedicated mailing lists exists. As this is the
-most general IETF mailing list, considerable latitude is allowed, but there are
-posts and topics that are unsuitable for this mailing list.
+discussion of technical, procedural, operational and other topics for which no
+dedicated mailing lists exists. As this is the most general IETF mailing list,
+considerable latitude in terms of topics is allowed, but there are posts and
+topics that are unsuitable for this mailing list. This document defines the
+charter for the IETF discussion list and explains its scope.
 
 This document obsoletes RFC3005.
 
@@ -102,10 +104,11 @@ This document obsoletes RFC3005.
 # Introduction {#intro}
 
 The IETF discussion list {{IETF-DISCUSS}} furthers the development and
-specification of Internet technology through the general discussion of topics
-for which no dedicated mailing lists exists. As this is the most general IETF
-mailing list, considerable latitude is allowed. However, there are posts and
-topics that are unsuitable for this mailing list. This document defines the
+specification of Internet technology through the general discussion of
+technical, procedural, operational and other topics for which no dedicated
+mailing lists exists. As this is the most general IETF mailing list,
+considerable latitude in terms of topics is allowed. However, there are posts
+and topics that are unsuitable for this mailing list. This document defines the
 charter for the IETF discussion list and explains its scope.
 
 The IETF Note Well {{NOTE-WELL}} applies to discussions on the IETF discussion
@@ -179,7 +182,7 @@ Inappropriate postings include:
 
 Moderators (previously known as the "sergeant-at-arms") for the IETF
 discussion list are appointed by the IETF Chair and are empowered to restrict
-posting by a person, or of a thread, when the content is inappropriate and
+posting by a person, or on a thread, when the content is inappropriate and
 represents a pattern of abuse. They are encouraged to take into account the
 overall nature of the postings by an individual and whether particular postings
 are an aberration or typical.
@@ -226,6 +229,10 @@ This document does not request any IANA actions.
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_eric-vyncke)
 - addressed [Ben Kaduk's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_benjamin-kaduk)
+- addressed [Francesca Palombini's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_francesca-palombini)
+  and [Carsten Bormann's
+  ART ART review](https://mailarchive.ietf.org/arch/msg/art/ZnkYEl-9mRWfKXtzHVUu7u92QB0/)
 
 ## Since draft-eggert-bcp45bis-07
 - incorporated suggestions from [Adrian
@@ -303,10 +310,12 @@ The following people have made contributions to this document:
 - Barry Leiba
 - Ben Kaduk
 - Brian Carpenter
+- Carsten Bormann
 - Christian Huitema
 - Dhruv Dhody
 - Eric Rescorla
 - Éric Vyncke
+- Francesca Palombini
 - Lloyd Wood
 - Martin Thomson
 - Robert Wilton
