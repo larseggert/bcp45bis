@@ -191,12 +191,12 @@ chain for moderator decisions (see below), the IETF Chair therefore should not
 appoint a moderator who is serving in such a role. If a moderator is selected
 for the IESG or IAB, they will step down from the moderator team.
 
-Apart from appointing moderators, the IETF Chair should stay away from the
-day-to-day operation and management of the moderator team. This has been in
-practice for a while, and the moderator team has independently maintained
-definitions of abuse patterns {{MOD-UPC}} and operating procedures
-{{MOD-SOP}} for them. The moderator team should reach out to the IETF Chair for
-any conflict resolution in a timely manner.
+Apart from appointing moderators, the IETF Chair should refrain from the
+day-to-day operation and management of the moderator team. The moderator team
+will independently define, publish, and execute their roles according to a set
+of documented operating procedures.  See abuse patterns {{MOD-UPC}} and
+operating procedures {{MOD-SOP}}. The moderator team should reach out to the
+IETF Chair for any conflict resolution in a timely manner.
 
 Because a moderator serves at the discretion of the IETF Chair - even if the
 IETF Chair is not otherwise involved in the operation of the moderator team -
@@ -222,6 +222,8 @@ This document does not request any IANA actions.
 ## Since draft-eggert-bcp45bis-08
 - addressed [Éric Vyncke's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_eric-vyncke)
+- addressed [Roman Danyliw's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_roman-danyliw)
 
 ## Since draft-eggert-bcp45bis-07
 - incorporated suggestions from [Adrian
