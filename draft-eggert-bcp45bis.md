@@ -1,6 +1,6 @@
 ---
 
-title: IETF Discussion List Charter THIS IS A HUMAN TEST
+title: IETF Discussion List Charter
 docname: draft-eggert-bcp45bis-latest
 date: {DATE}
 category: bcp
