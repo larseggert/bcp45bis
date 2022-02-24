@@ -194,7 +194,7 @@ for the IESG or IAB, they will step down from the moderator team.
 Apart from appointing moderators, the IETF Chair should refrain from the
 day-to-day operation and management of the moderator team. The moderator team
 will independently define, publish, and execute their roles according to a set
-of documented operating procedures.  See abuse patterns {{MOD-UPC}} and
+of documented operating procedures, including abuse patterns {{MOD-UPC}} and
 operating procedures {{MOD-SOP}}. The moderator team should reach out to the
 IETF Chair for any conflict resolution in a timely manner.
 
