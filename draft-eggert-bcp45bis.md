@@ -5,8 +5,10 @@ docname: draft-eggert-bcp45bis-latest
 submissionType: IETF
 date: {DATE}
 category: bcp
+submissionType: IETF
 ipr: pre5378Trust200902
 obsoletes: 3005
+updates: 3683
 
 stand_alone: yes
 pi: [toc, sortrefs, symrefs, docmapping]
@@ -98,7 +100,7 @@ considerable latitude in terms of topics is allowed, but there are posts and
 topics that are unsuitable for this mailing list. This document defines the
 charter for the IETF discussion list and explains its scope.
 
-This document obsoletes RFC3005.
+This document obsoletes RFC3005 and updates RFC3683.
 
 --- middle
 
@@ -121,7 +123,9 @@ This document obsoletes {{?RFC3005}}, documenting the use of other mailing
 lists for discussions that used to be in scope for the IETF discussion list,
 referring to applicable policies such as the Guidelines for Conduct
 {{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}}, and clarifying
-moderation procedures.
+moderation procedures. It also updates part of {{Section 1 of ?RFC3683}}, which
+copies the list of "inappropriate postings" from {{?RFC3005}}. This list in
+{{?RFC3683}} is hence updated by the new list in {{charter}} below.
 
 # Charter for the IETF Discussion List {#charter}
 
@@ -131,9 +135,11 @@ any working group, area, or other established list. When discussions are
 started on the IETF discussion list for which such a venue does exist, they
 should be continued at that other venue as soon as this is pointed out.
 
-When no dedicated mailing list exists, it may be preferable to request the
-creation of one {{NON-WG-LISTS}} and announce the availability of the new
-list on the IETF discussion list and on other related lists, such as area lists.
+When no dedicated mailing list exists for a topic, it may be preferable to
+request the creation of one {{NON-WG-LISTS}} and announce the
+availability of the new list on the IETF discussion list and on other
+related lists, such as area lists, rather than discussing that topic on
+the IETF discussion list.
 
 Appropriate postings to the IETF discussion list include:
 
@@ -158,10 +164,10 @@ Appropriate postings to the IETF discussion list include:
 These topics used to be in scope for the IETF discussion list, but have since
 moved to dedicated lists:
 
-- Last Call discussions of proposed document actions now take place on the IETF
+- Last Call discussions of documents now take place on the IETF
   Last Calls mailing list {{LAST-CALLS}}.
 
-- Discussion of IETF administrative policies now take place on the discussion
+- Discussion of IETF administrative policies now takes place on the discussion
   list for IETF LLC administrative issues {{ADMIN-DISCUSS}}.
 
 Inappropriate postings include:
@@ -181,10 +187,10 @@ Inappropriate postings include:
 
 The IETF Chair appoints *Moderators* (previously known as
 the "sergeant-at-arms") for the IETF discussion list that are empowered to
-restrict posting by a person, or on a thread, when the content is inappropriate
-and represents a pattern of abuse. They are encouraged to take into account the
-overall nature of the postings by an individual and whether particular postings
-are an aberration or typical.
+restrict posting by a person, or to an email thread, when the content is
+inappropriate and represents a pattern of abuse. They are encouraged to take
+into account the overall nature of the postings by an individual and whether
+particular postings are an aberration or typical.
 
 Moderation of the IETF discussion list, including the handling of any appeals,
 is to be guided by the IETF discussion list charter specified in
@@ -195,12 +201,12 @@ chain for moderator decisions (see below), the IETF Chair therefore should not
 appoint a moderator who is serving in such a role. If a moderator is selected
 for the IESG or IAB, they will step down from the moderator team.
 
-Apart from appointing moderators, the IETF Chair should stay away from the
-day-to-day operation and management of the moderator team. This has been in
-practice for a while, and the moderator team has independently maintained
-definitions of abuse patterns {{MOD-UPC}} and operating procedures
-{{MOD-SOP}} for them. The moderator team should reach out to the IETF Chair for
-any conflict resolution in a timely manner.
+Apart from appointing moderators, the IETF Chair should refrain from the
+day-to-day operation and management of the moderator team. The moderator team
+will independently define, publish, and execute their roles according to a set
+of operating procedures {{MOD-SOP}} and abuse patterns {{MOD-UPC}}.
+The moderator team should reach out to the
+IETF Chair for any conflict resolution in a timely manner.
 
 Because a moderator serves at the discretion of the IETF Chair - even if the
 IETF Chair is not otherwise involved in the operation of the moderator team -
@@ -228,12 +234,20 @@ This document does not request any IANA actions.
 > RFC Editor: Please remove this appendix before publication.
 
 ## Since draft-eggert-bcp45bis-08
+- Update {{?RFC3683}}, because it copies text from {{?RFC3005}} that this
+  document updates. See [this issue](https://github.com/larseggert/bcp45bis/issues/11).
 - addressed [Éric Vyncke's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_eric-vyncke)
 - addressed [Francesca Palombini's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_francesca-palombini)
   and [Carsten Bormann's
   ART ART review](https://mailarchive.ietf.org/arch/msg/art/ZnkYEl-9mRWfKXtzHVUu7u92QB0/)
+- addressed [John Scudder's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_john-scudder)
+- addressed [Roman Danyliw's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_roman-danyliw)
+- addressed [Ben Kaduk's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_benjamin-kaduk)
 
 ## Since draft-eggert-bcp45bis-07
 - incorporated suggestions from [Adrian
@@ -309,6 +323,7 @@ The following people have made contributions to this document:
 
 - Adrian Farrel
 - Barry Leiba
+- Ben Kaduk
 - Brian Carpenter
 - Carsten Bormann
 - Christian Huitema
@@ -316,6 +331,7 @@ The following people have made contributions to this document:
 - Eric Rescorla
 - Éric Vyncke
 - Francesca Palombini
+- John Scudder
 - Lloyd Wood
 - Martin Thomson
 - Robert Wilton
