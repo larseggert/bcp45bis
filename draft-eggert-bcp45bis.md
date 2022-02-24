@@ -4,8 +4,10 @@ title: IETF Discussion List Charter
 docname: draft-eggert-bcp45bis-latest
 date: {DATE}
 category: bcp
+submissionType: IETF
 ipr: pre5378Trust200902
 obsoletes: 3005
+updates: 3683
 
 stand_alone: yes
 pi: [toc, sortrefs, symrefs, docmapping]
@@ -95,7 +97,7 @@ discussion of topics for which no dedicated mailing lists exists. As this is the
 most general IETF mailing list, considerable latitude is allowed, but there are
 posts and topics that are unsuitable for this mailing list.
 
-This document obsoletes RFC3005.
+This document obsoletes RFC3005 and updates RFC3683.
 
 --- middle
 
@@ -117,7 +119,9 @@ This document obsoletes {{?RFC3005}}, documenting the use of other mailing
 lists for discussions that used to be in scope for the IETF discussion list,
 referring to applicable policies such as the Guidelines for Conduct
 {{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}}, and clarifying
-moderation procedures.
+moderation procedures. It also updates part of {{Section 1 of ?RFC3683}}, which
+copies the list of "inappropriate postings" from {{?RFC3005}}. This list in
+{{?RFC3683}} is hence updated by the new list in {{charter}} below.
 
 # Charter for the IETF Discussion List {#charter}
 
@@ -222,6 +226,8 @@ This document does not request any IANA actions.
 > RFC Editor: Please remove this appendix before publication.
 
 ## Since draft-eggert-bcp45bis-08
+- Update {{?RFC3683}}, because it copies text from {{?RFC3005}} that this
+  document updates. See [this issue](https://github.com/larseggert/bcp45bis/issues/11).
 - addressed [Éric Vyncke's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_eric-vyncke)
 - addressed [Ben Kaduk's IESG
