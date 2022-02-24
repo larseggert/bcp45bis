@@ -2,6 +2,7 @@
 
 title: IETF Discussion List Charter
 docname: draft-eggert-bcp45bis-latest
+submissionType: IETF
 date: {DATE}
 category: bcp
 submissionType: IETF
@@ -93,9 +94,11 @@ informative:
 
 The Internet Engineering Task Force (IETF) discussion mailing list furthers the
 development and specification of Internet technology through the general
-discussion of topics for which no dedicated mailing lists exists. As this is the
-most general IETF mailing list, considerable latitude is allowed, but there are
-posts and topics that are unsuitable for this mailing list.
+discussion of technical, procedural, operational and other topics for which no
+dedicated mailing lists exists. As this is the most general IETF mailing list,
+considerable latitude in terms of topics is allowed, but there are posts and
+topics that are unsuitable for this mailing list. This document defines the
+charter for the IETF discussion list and explains its scope.
 
 This document obsoletes RFC3005 and updates RFC3683.
 
@@ -104,10 +107,11 @@ This document obsoletes RFC3005 and updates RFC3683.
 # Introduction {#intro}
 
 The IETF discussion list {{IETF-DISCUSS}} furthers the development and
-specification of Internet technology through the general discussion of topics
-for which no dedicated mailing lists exists. As this is the most general IETF
-mailing list, considerable latitude is allowed. However, there are posts and
-topics that are unsuitable for this mailing list. This document defines the
+specification of Internet technology through the general discussion of
+technical, procedural, operational and other topics for which no dedicated
+mailing lists exists. As this is the most general IETF mailing list,
+considerable latitude in terms of topics is allowed. However, there are posts
+and topics that are unsuitable for this mailing list. This document defines the
 charter for the IETF discussion list and explains its scope.
 
 The IETF Note Well {{NOTE-WELL}} applies to discussions on the IETF discussion
@@ -179,14 +183,14 @@ Inappropriate postings include:
 - Announcements of conferences, events, or activities that are not sponsored or
   endorsed by the Internet Society or the IETF.
 
-# Moderation
+# Moderation {#mod}
 
-Moderators (previously known as the "sergeant-at-arms") for the IETF discussion
-list are appointed by the IETF Chair and are empowered to restrict posting by a
-person, or to an email thread, when the content is inappropriate and represents
-a pattern of abuse. They are encouraged to take into account the overall nature
-of the postings by an individual and whether particular postings are an
-aberration or typical.
+The IETF Chair appoints *Moderators* (previously known as
+the "sergeant-at-arms") for the IETF discussion list that are empowered to
+restrict posting by a person, or to an email thread, when the content is
+inappropriate and represents a pattern of abuse. They are encouraged to take
+into account the overall nature of the postings by an individual and whether
+particular postings are an aberration or typical.
 
 Moderation of the IETF discussion list, including the handling of any appeals,
 is to be guided by the IETF discussion list charter specified in
@@ -212,7 +216,11 @@ again per {{!RFC2026}}.
 
 # Security Considerations
 
-This document does not raise any security issues.
+The usual security considerations {{?RFC3552}} do not apply to this document.
+
+Potential abuse of the moderation process for the suppression of undesired
+opinions is counteracted by the availability of an appeals process, per
+{{mod}}.
 
 # IANA Considerations
 
@@ -230,6 +238,10 @@ This document does not request any IANA actions.
   document updates. See [this issue](https://github.com/larseggert/bcp45bis/issues/11).
 - addressed [Éric Vyncke's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_eric-vyncke)
+- addressed [Francesca Palombini's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_francesca-palombini)
+  and [Carsten Bormann's
+  ART ART review](https://mailarchive.ietf.org/arch/msg/art/ZnkYEl-9mRWfKXtzHVUu7u92QB0/)
 - addressed [John Scudder's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_john-scudder)
 - addressed [Roman Danyliw's IESG
@@ -313,10 +325,12 @@ The following people have made contributions to this document:
 - Barry Leiba
 - Ben Kaduk
 - Brian Carpenter
+- Carsten Bormann
 - Christian Huitema
 - Dhruv Dhody
 - Eric Rescorla
 - Éric Vyncke
+- Francesca Palombini
 - John Scudder
 - Lloyd Wood
 - Martin Thomson
