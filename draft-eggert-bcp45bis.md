@@ -163,7 +163,7 @@ moved to dedicated lists:
 - Last Call discussions of documents now take place on the IETF
   Last Calls mailing list {{LAST-CALLS}}.
 
-- Discussion of IETF administrative policies now take place on the discussion
+- Discussion of IETF administrative policies now takes place on the discussion
   list for IETF LLC administrative issues {{ADMIN-DISCUSS}}.
 
 Inappropriate postings include:
@@ -181,12 +181,12 @@ Inappropriate postings include:
 
 # Moderation
 
-Moderators (previously known as the "sergeant-at-arms") for the IETF
-discussion list are appointed by the IETF Chair and are empowered to restrict
-posting by a person, or of a thread, when the content is inappropriate and
-represents a pattern of abuse. They are encouraged to take into account the
-overall nature of the postings by an individual and whether particular postings
-are an aberration or typical.
+Moderators (previously known as the "sergeant-at-arms") for the IETF discussion
+list are appointed by the IETF Chair and are empowered to restrict posting by a
+person, or to an email thread, when the content is inappropriate and represents
+a pattern of abuse. They are encouraged to take into account the overall nature
+of the postings by an individual and whether particular postings are an
+aberration or typical.
 
 Moderation of the IETF discussion list, including the handling of any appeals,
 is to be guided by the IETF discussion list charter specified in
@@ -230,6 +230,8 @@ This document does not request any IANA actions.
   document updates. See [this issue](https://github.com/larseggert/bcp45bis/issues/11).
 - addressed [Éric Vyncke's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_eric-vyncke)
+- addressed [John Scudder's IESG
+  review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_john-scudder)
 - addressed [Roman Danyliw's IESG
   review](https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/ballot/#draft-eggert-bcp45bis_roman-danyliw)
 - addressed [Ben Kaduk's IESG
@@ -315,6 +317,7 @@ The following people have made contributions to this document:
 - Dhruv Dhody
 - Eric Rescorla
 - Éric Vyncke
+- John Scudder
 - Lloyd Wood
 - Martin Thomson
 - Robert Wilton
