@@ -183,7 +183,7 @@ Inappropriate postings include:
   {{NOTE-WELL}}
 
 - Announcements of conferences, events, or activities that are not sponsored or
-  endorsed by the Internet Society or the IETF.
+  endorsed by the IETF, IRTF, IAB or the Internet Society.
 
 # Moderation {#mod}
 
