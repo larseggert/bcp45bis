@@ -32,7 +32,7 @@ For the ease of all reviewers, please do not use inline comments on pull request
 Output files may be viewed here:
 * [https://www.rfc-editor.org/authors/rfc9245.txt](https://www.rfc-editor.org/authors/rfc9245.txt)
 
-Once the content of the .md file is stable, the following files will also be provided:
+Once the content of the .md file is stable and an XML file has been created, the following files will also be provided:
 * [https://www.rfc-editor.org/authors/rfc9245.html](https://www.rfc-editor.org/authors/rfc9245.html)
 * [https://www.rfc-editor.org/authors/rfc9245.pdf](https://www.rfc-editor.org/authors/rfc9245.pdf)
 * [https://www.rfc-editor.org/authors/rfc9245.xml](https://www.rfc-editor.org/authors/rfc9245.xml)
@@ -41,8 +41,7 @@ To create your own output files, use the [tools webservice](https://author-tools
 
 ## Viewing Diffs
 Diffs via GitHub:
-* [Markdown updates](https://github.com/rfc-editor/rfc9245-AUTH48/compare/2714c1c..4db1e9d)
-* [All editing updates made before AUTH48](https://github.com/rfc-editor/rfc9245-AUTH48/commit/aaaaaaa#diff-bbbbbbb)
+* [All editing updates made before AUTH48](https://github.com/sginoza/rfc9245-AUTH48/commit/c4b6b684fbcb1ce9fd93fb044ad56b7195935d95)
 
 More information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
 
