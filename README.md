@@ -1,5 +1,5 @@
 # RFC 9245 AUTH48
-This repository is for managing document updates for RFC-to-be 9246 during AUTH48. 
+This repository is for managing document updates for RFC-to-be 9245 during AUTH48. 
 
 Please see the [License](https://github.com/rfc-editor/rfc9245-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfc9245-AUTH48/blob/main/note-well.md) applies.
 
@@ -32,9 +32,10 @@ For the ease of all reviewers, please do not use inline comments on pull request
 Output files may be viewed here:
 * [https://www.rfc-editor.org/authors/rfc9245.txt](https://www.rfc-editor.org/authors/rfc9245.txt)
 
-Note that these files will not be provided until the content is considered stable and an XML source file is available:
+Once the content of the .md file is stable, the following files will also be provided:
 * [https://www.rfc-editor.org/authors/rfc9245.html](https://www.rfc-editor.org/authors/rfc9245.html)
-* [https://www.rfc-editor.org/authors/rfc9245.pdf](https://www.rfc-editor.org/authors/rfc9245.txt)
+* [https://www.rfc-editor.org/authors/rfc9245.pdf](https://www.rfc-editor.org/authors/rfc9245.pdf)
+* [https://www.rfc-editor.org/authors/rfc9245.xml](https://www.rfc-editor.org/authors/rfc9245.xml)
    
 To create your own output files, use the [tools webservice](https://author-tools.ietf.org/) and select one of the output options.
 
