@@ -36,9 +36,7 @@ Note that these files will not be provided until the content is considered stabl
 * [https://www.rfc-editor.org/authors/rfc9245.html](https://www.rfc-editor.org/authors/rfc9245.html)
 * [https://www.rfc-editor.org/authors/rfc9245.pdf](https://www.rfc-editor.org/authors/rfc9245.txt)
    
-To create your own output files, use the [xml2rfc webservice](https://author-tools.ietf.org/) and select one of the output options.
-
-If you would like guidance on using xml2rfc locally, please ask the editor. 
+To create your own output files, use the [tools webservice](https://author-tools.ietf.org/) and select one of the output options.
 
 ## Viewing Diffs
 Diffs via GitHub:
