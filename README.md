@@ -1,7 +1,7 @@
-# RFC NNNN AUTH48
-This repository is for managing document updates for RFC NNNN during AUTH48. 
+# RFC 9245 AUTH48
+This repository is for managing document updates for RFC-to-be 9246 during AUTH48. 
 
-Please see the [License](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/note-well.md) applies.
+Please see the [License](https://github.com/rfc-editor/rfc9245-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfc9245-AUTH48/blob/main/note-well.md) applies.
 
 GitHub features that will be used:
 * Issue tracking
@@ -19,7 +19,7 @@ Questions and FYIs from the RFC Editor have been added as issues. Please provide
 
 Feel free to add new issues for new edits and questions. 
 
-The editor will close the issue when it has been addressed either by accepting a pull request or simply closing the issue if no changes are needed.  
+The editor will close the issue when it has been addressed either by accepting a pull request or simply closing the issue if no changes are needed. 
 
 ## Pull Requests
 If you would like to submit changes, please create a pull request and identify one or more issues that the pull request closes in the comments. 
@@ -27,32 +27,34 @@ If you would like to submit changes, please create a pull request and identify o
 If the editor creates the PR, the editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
 
 For the ease of all reviewers, please do not use inline comments on pull requests.
-   
+
 ## Viewing XML Outputs
 Output files may be viewed here:
-* [https://www.rfc-editor.org/authors/rfcNNNN.txt](https://www.rfc-editor.org/authors/rfcNNNN.txt)
-* [https://www.rfc-editor.org/authors/rfcNNNN.html](https://www.rfc-editor.org/authors/rfcNNNN.html)
-* [https://www.rfc-editor.org/authors/rfcNNNN.pdf](https://www.rfc-editor.org/authors/rfcNNNN.txt)
+* [https://www.rfc-editor.org/authors/rfc9245.txt](https://www.rfc-editor.org/authors/rfc9245.txt)
+
+Note that these files will not be provided until the content is considered stable and an XML source file is available:
+* [https://www.rfc-editor.org/authors/rfc9245.html](https://www.rfc-editor.org/authors/rfc9245.html)
+* [https://www.rfc-editor.org/authors/rfc9245.pdf](https://www.rfc-editor.org/authors/rfc9245.txt)
    
-To create your own output files, use the [xml2rfc webservice](https://xml2rfc.tools.ietf.org/experimental.html) and select either the v3-plaintext or v3-HTML output options.
+To create your own output files, use the [xml2rfc webservice](https://author-tools.ietf.org/) and select one of the output options.
 
 If you would like guidance on using xml2rfc locally, please ask the editor. 
 
 ## Viewing Diffs
 Diffs via GitHub:
-* [XML updates](https://github.com/rfc-editor/rfcNNNN-AUTH48/compare/2714c1c..4db1e9d)
-* [All editing updates made before AUTH48](https://github.com/rfc-editor/rfcNNNN-AUTH48/commit/aaaaaaa#diff-bbbbbbb)
+* [Markdown updates](https://github.com/rfc-editor/rfc9245-AUTH48/compare/2714c1c..4db1e9d)
+* [All editing updates made before AUTH48](https://github.com/rfc-editor/rfc9245-AUTH48/commit/aaaaaaa#diff-bbbbbbb)
 
 More information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
 
 The following diff files are available via www.rfc-editor.org:
-* [https://www.rfc-editor.org/authors/rfcNNNN-diff.html](https://www.rfc-editor.org/authors/rfcNNNN-diff.html) (all changes since the document entered the RFC Editor Queue)
-* [https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html](https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html) (all changes since the document entered the RFC Editor Queue side by side)
+* [https://www.rfc-editor.org/authors/rfc9245-diff.html](https://www.rfc-editor.org/authors/rfc9245-diff.html) (all changes since the document entered the RFC Editor Queue)
+* [https://www.rfc-editor.org/authors/rfc9245-rfcdiff.html](https://www.rfc-editor.org/authors/rfc9245-rfcdiff.html) (side-by-side view of all changes since the document entered the RFC Editor Queue)
 
-## Approving the Document
+## Approving the Document 
 To approve your RFC for publication, **please reply to the AUTH48 email** stating that you approve this RFC for publication.  Please use **REPLY ALL**, as all the parties CC’ed on the message need to see your approval.
 
-The details of the AUTH48 status of the document are here: [https://www.rfc-editor.org/auth48/rfcNNNN](https://www.rfc-editor.org/auth48/rfcNNNN)
+The details of the AUTH48 status of the document are here: [https://www.rfc-editor.org/auth48/rfc9245](https://www.rfc-editor.org/auth48/rfc9245)
 
 ## About This Repo
 Note that this repo is available only during AUTH48. Before the RFC publication announcement is sent, this repo will be made private and archived. 
