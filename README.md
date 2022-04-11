@@ -41,7 +41,7 @@ To create your own output files, use the [tools webservice](https://author-tools
 
 ## Viewing Diffs
 Diffs via GitHub:
-* [All editing updates made before AUTH48](https://github.com/sginoza/rfc9245-AUTH48/commit/c4b6b684fbcb1ce9fd93fb044ad56b7195935d95)
+* [All editing updates made before AUTH48](https://github.com/rfc-editor/rfc9245-AUTH48/compare/fe12bde..52bb939)
 
 More information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
 
