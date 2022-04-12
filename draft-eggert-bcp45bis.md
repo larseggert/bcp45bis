@@ -235,7 +235,14 @@ This document does not request any IANA actions.
 # Acknowledgements
 {: numbered="no"}
 
-The following people have made contributions to this document:
+Susan R. Harris authored {{?RFC3005}}, which this document replaces. In addition
+to many technical contributions to the IETF, Susan authored a number of other
+foundational documents, such as the original "IETF Guidelines for Conduct"
+{{?RFC3184}} and the original "Tao of the IETF" {{?RFC3160}}.  Susan R. Harris
+passed away in early 2022. This document is dedicated to her
+memory, as a small token of appreciation of her many contributions.
+
+The following people have made other contributions to this document:
 
 - Adrian Farrel
 - Barry Leiba
@@ -253,5 +260,3 @@ The following people have made contributions to this document:
 - Robert Wilton
 - Subramanian Moonesamy
 - Stephen Farrell
-
-Susan R. Harris authored {{?RFC3005}}, which this document replaces.
