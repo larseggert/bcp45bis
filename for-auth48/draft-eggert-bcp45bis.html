@@ -16,10 +16,10 @@ topics that are unsuitable for this mailing list. This document defines the
 charter for the IETF discussion list and explains its scope. 
        This document obsoletes RFC3005 and updates RFC3683. 
     " name="description">
-<meta content="xml2rfc 3.12.2" name="generator">
+<meta content="xml2rfc 3.12.3" name="generator">
 <meta content="draft-eggert-bcp45bis-latest" name="ietf.draft">
 <!-- Generator version information:
-  xml2rfc 3.12.2
+  xml2rfc 3.12.3
     Python 3.9.7
     appdirs 1.4.4
     ConfigArgParse 1.3
@@ -29,6 +29,7 @@ charter for the IETF discussion list and explains its scope.
     Jinja2 2.11.3
     kitchen 1.2.6
     lxml 4.6.5
+    MarkupSafe 2.0.1
     pycountry 20.7.3
     pyflakes 2.3.1
     PyYAML 5.4.1
@@ -1018,11 +1019,11 @@ svg [stroke="fill"], svg [fill^="#fff"] {
 <thead><tr>
 <td class="left">Internet-Draft</td>
 <td class="center">IETF Discussion List Charter</td>
-<td class="right">February 2022</td>
+<td class="right">April 2022</td>
 </tr></thead>
 <tfoot><tr>
 <td class="left">Eggert</td>
-<td class="center">Expires 29 August 2022</td>
+<td class="center">Expires 14 October 2022</td>
 <td class="right">[Page]</td>
 </tr></tfoot>
 </table>
@@ -1041,12 +1042,12 @@ svg [stroke="fill"], svg [fill^="#fff"] {
 <a href="https://www.rfc-editor.org/rfc/rfc3683" class="eref">3683</a> (if approved)</dd>
 <dt class="label-published">Published:</dt>
 <dd class="published">
-<time datetime="2022-02-25" class="published">25 February 2022</time>
+<time datetime="2022-04-12" class="published">12 April 2022</time>
     </dd>
 <dt class="label-intended-status">Intended Status:</dt>
 <dd class="intended-status">Best Current Practice</dd>
 <dt class="label-expires">Expires:</dt>
-<dd class="expires"><time datetime="2022-08-29">29 August 2022</time></dd>
+<dd class="expires"><time datetime="2022-10-14">14 October 2022</time></dd>
 <dt class="label-authors">Author:</dt>
 <dd class="authors">
 <div class="author">
@@ -1087,7 +1088,7 @@ charter for the IETF discussion list and explains its scope.<a href="#section-ab
         time. It is inappropriate to use Internet-Drafts as reference
         material or to cite them other than as "work in progress."<a href="#section-boilerplate.1-3" class="pilcrow">¶</a></p>
 <p id="section-boilerplate.1-4">
-        This Internet-Draft will expire on 29 August 2022.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
+        This Internet-Draft will expire on 14 October 2022.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
 </section>
 </div>
 <div id="copyright">
@@ -1397,6 +1398,14 @@ opinions is counteracted by the availability of an appeals process, per
         <dd>
 <span class="refAuthor">Harris, S.</span>, <span class="refTitle">"IETF Discussion List Charter"</span>, <span class="seriesInfo">BCP 45</span>, <span class="seriesInfo">RFC 3005</span>, <span class="seriesInfo">DOI 10.17487/RFC3005</span>, <time datetime="2000-11" class="refDate">November 2000</time>, <span>&lt;<a href="https://www.rfc-editor.org/rfc/rfc3005">https://www.rfc-editor.org/rfc/rfc3005</a>&gt;</span>. </dd>
 <dd class="break"></dd>
+<dt id="RFC3160">[RFC3160]</dt>
+        <dd>
+<span class="refAuthor">Harris, S.</span>, <span class="refTitle">"The Tao of IETF - A Novice's Guide to the Internet Engineering Task Force"</span>, <span class="seriesInfo">RFC 3160</span>, <span class="seriesInfo">DOI 10.17487/RFC3160</span>, <time datetime="2001-08" class="refDate">August 2001</time>, <span>&lt;<a href="https://www.rfc-editor.org/rfc/rfc3160">https://www.rfc-editor.org/rfc/rfc3160</a>&gt;</span>. </dd>
+<dd class="break"></dd>
+<dt id="RFC3184">[RFC3184]</dt>
+        <dd>
+<span class="refAuthor">Harris, S.</span>, <span class="refTitle">"IETF Guidelines for Conduct"</span>, <span class="seriesInfo">RFC 3184</span>, <span class="seriesInfo">DOI 10.17487/RFC3184</span>, <time datetime="2001-10" class="refDate">October 2001</time>, <span>&lt;<a href="https://www.rfc-editor.org/rfc/rfc3184">https://www.rfc-editor.org/rfc/rfc3184</a>&gt;</span>. </dd>
+<dd class="break"></dd>
 <dt id="RFC3552">[RFC3552]</dt>
         <dd>
 <span class="refAuthor">Rescorla, E.</span> and <span class="refAuthor">B. Korver</span>, <span class="refTitle">"Guidelines for Writing RFC Text on Security Considerations"</span>, <span class="seriesInfo">BCP 72</span>, <span class="seriesInfo">RFC 3552</span>, <span class="seriesInfo">DOI 10.17487/RFC3552</span>, <time datetime="2003-07" class="refDate">July 2003</time>, <span>&lt;<a href="https://www.rfc-editor.org/rfc/rfc3552">https://www.rfc-editor.org/rfc/rfc3552</a>&gt;</span>. </dd>
@@ -1607,42 +1616,47 @@ for the IETF discussion list but no longer are<a href="#appendix-A.9-1.4" class=
       <h2 id="name-acknowledgements">
 <a href="#name-acknowledgements" class="section-name selfRef">Acknowledgements</a>
       </h2>
-<p id="appendix-B-1">The following people have made contributions to this document:<a href="#appendix-B-1" class="pilcrow">¶</a></p>
+<p id="appendix-B-1">Susan R. Harris authored <span>[<a href="#RFC3005" class="xref">RFC3005</a>]</span>, which this document replaces. In addition
+to many technical contributions to the IETF, Susan authored a number of other
+foundational documents, such as the original "IETF Guidelines for Conduct"
+<span>[<a href="#RFC3184" class="xref">RFC3184</a>]</span> and the original "Tao of the IETF" <span>[<a href="#RFC3160" class="xref">RFC3160</a>]</span>.  Susan R. Harris
+passed away in early 2022. This document is dedicated to her
+memory, as a small token of appreciation of her many contributions.<a href="#appendix-B-1" class="pilcrow">¶</a></p>
+<p id="appendix-B-2">The following people have made other contributions to this document:<a href="#appendix-B-2" class="pilcrow">¶</a></p>
 <ul class="normal">
-<li class="normal" id="appendix-B-2.1">Adrian Farrel<a href="#appendix-B-2.1" class="pilcrow">¶</a>
+<li class="normal" id="appendix-B-3.1">Adrian Farrel<a href="#appendix-B-3.1" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.2">Barry Leiba<a href="#appendix-B-2.2" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.2">Barry Leiba<a href="#appendix-B-3.2" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.3">Ben Kaduk<a href="#appendix-B-2.3" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.3">Ben Kaduk<a href="#appendix-B-3.3" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.4">Brian Carpenter<a href="#appendix-B-2.4" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.4">Brian Carpenter<a href="#appendix-B-3.4" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.5">Carsten Bormann<a href="#appendix-B-2.5" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.5">Carsten Bormann<a href="#appendix-B-3.5" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.6">Christian Huitema<a href="#appendix-B-2.6" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.6">Christian Huitema<a href="#appendix-B-3.6" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.7">Dhruv Dhody<a href="#appendix-B-2.7" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.7">Dhruv Dhody<a href="#appendix-B-3.7" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.8">Eric Rescorla<a href="#appendix-B-2.8" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.8">Eric Rescorla<a href="#appendix-B-3.8" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.9">Eric Vyncke<a href="#appendix-B-2.9" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.9">Eric Vyncke<a href="#appendix-B-3.9" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.10">Francesca Palombini<a href="#appendix-B-2.10" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.10">Francesca Palombini<a href="#appendix-B-3.10" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.11">John Scudder<a href="#appendix-B-2.11" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.11">John Scudder<a href="#appendix-B-3.11" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.12">Lloyd Wood<a href="#appendix-B-2.12" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.12">Lloyd Wood<a href="#appendix-B-3.12" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.13">Martin Thomson<a href="#appendix-B-2.13" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.13">Martin Thomson<a href="#appendix-B-3.13" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.14">Robert Wilton<a href="#appendix-B-2.14" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.14">Robert Wilton<a href="#appendix-B-3.14" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.15">S Moonesamy<a href="#appendix-B-2.15" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.15">S Moonesamy<a href="#appendix-B-3.15" class="pilcrow">¶</a>
 </li>
-        <li class="normal" id="appendix-B-2.16">Stephen Farrell<a href="#appendix-B-2.16" class="pilcrow">¶</a>
+        <li class="normal" id="appendix-B-3.16">Stephen Farrell<a href="#appendix-B-3.16" class="pilcrow">¶</a>
 </li>
       </ul>
-<p id="appendix-B-3">Susan R. Harris authored <span>[<a href="#RFC3005" class="xref">RFC3005</a>]</span>, which this document replaces.<a href="#appendix-B-3" class="pilcrow">¶</a></p>
 </section>
 </div>
 <div id="authors-addresses">

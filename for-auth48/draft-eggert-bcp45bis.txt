@@ -4,10 +4,10 @@
 
 Network Working Group                                          L. Eggert
 Internet-Draft                                                    NetApp
-Obsoletes: 3005 (if approved)                           25 February 2022
+Obsoletes: 3005 (if approved)                              12 April 2022
 Updates: 3683 (if approved)                                             
 Intended status: Best Current Practice                                  
-Expires: 29 August 2022
+Expires: 14 October 2022
 
 
                       IETF Discussion List Charter
@@ -41,7 +41,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 29 August 2022.
+   This Internet-Draft will expire on 14 October 2022.
 
 Copyright Notice
 
@@ -281,6 +281,15 @@ Table of Contents
               RFC 3005, DOI 10.17487/RFC3005, November 2000,
               <https://www.rfc-editor.org/rfc/rfc3005>.
 
+   [RFC3160]  Harris, S., "The Tao of IETF - A Novice's Guide to the
+              Internet Engineering Task Force", RFC 3160,
+              DOI 10.17487/RFC3160, August 2001,
+              <https://www.rfc-editor.org/rfc/rfc3160>.
+
+   [RFC3184]  Harris, S., "IETF Guidelines for Conduct", RFC 3184,
+              DOI 10.17487/RFC3184, October 2001,
+              <https://www.rfc-editor.org/rfc/rfc3184>.
+
    [RFC3552]  Rescorla, E. and B. Korver, "Guidelines for Writing RFC
               Text on Security Considerations", BCP 72, RFC 3552,
               DOI 10.17487/RFC3552, July 2003,
@@ -427,7 +436,15 @@ A.10.  Since RFC3005
 
 Acknowledgements
 
-   The following people have made contributions to this document:
+   Susan R.  Harris authored [RFC3005], which this document replaces.
+   In addition to many technical contributions to the IETF, Susan
+   authored a number of other foundational documents, such as the
+   original "IETF Guidelines for Conduct" [RFC3184] and the original
+   "Tao of the IETF" [RFC3160].  Susan R.  Harris passed away in early
+   2022.  This document is dedicated to her memory, as a small token of
+   appreciation of her many contributions.
+
+   The following people have made other contributions to this document:
 
    *  Adrian Farrel
 
@@ -460,8 +477,6 @@ Acknowledgements
    *  S Moonesamy
 
    *  Stephen Farrell
-
-   Susan R.  Harris authored [RFC3005], which this document replaces.
 
 Author's Address
 
