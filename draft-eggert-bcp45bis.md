@@ -1,12 +1,13 @@
 ---
 
 title: IETF Discussion List Charter
-docname: draft-eggert-bcp45bis-latest
+docname: draft-eggert-bcp45bis-08
 submissionType: IETF
 date: {DATE}
 category: bcp
 submissionType: IETF
 ipr: pre5378Trust200902
+seriesno: 45
 obsoletes: 3005
 updates: 3683
 
