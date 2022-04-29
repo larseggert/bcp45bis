@@ -97,13 +97,13 @@ informative:
 
 The Internet Engineering Task Force (IETF) discussion mailing list furthers the
 development and specification of Internet technology through the general
-discussion of technical, procedural, operational and other topics for which no
-dedicated mailing lists exists. As this is the most general IETF mailing list,
+discussion of technical, procedural, operational, and other topics for which no
+dedicated mailing lists exist. As this is the most general IETF mailing list,
 considerable latitude in terms of topics is allowed, but there are posts and
 topics that are unsuitable for this mailing list. This document defines the
 charter for the IETF discussion list and explains its scope.
 
-This document obsoletes RFC3005 and updates RFC3683.
+This document obsoletes RFC 3005 and updates RFC 3683.
 
 --- middle
 
@@ -111,8 +111,8 @@ This document obsoletes RFC3005 and updates RFC3683.
 
 The IETF discussion list {{IETF-DISCUSS}} furthers the development and
 specification of Internet technology through the general discussion of
-technical, procedural, operational and other topics for which no dedicated
-mailing lists exists. As this is the most general IETF mailing list,
+technical, procedural, operational, and other topics for which no dedicated
+mailing lists exist. As this is the most general IETF mailing list,
 considerable latitude in terms of topics is allowed. However, there are posts
 and topics that are unsuitable for this mailing list. This document defines the
 charter for the IETF discussion list and explains its scope.
@@ -128,7 +128,7 @@ referring to applicable policies such as the Guidelines for Conduct
 {{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}}, and clarifying
 moderation procedures. It also updates part of {{Section 1 of ?RFC3683}}, which
 copies the list of "inappropriate postings" from {{?RFC3005}}. This list in
-{{?RFC3683}} is hence updated by the new list in {{charter}} below.
+{{?RFC3683}} is hence updated by the new list in {{charter}}.
 
 # Charter for the IETF Discussion List {#charter}
 
@@ -211,8 +211,8 @@ of operating procedures {{MOD-SOP}} and abuse patterns {{MOD-UPC}}.
 The moderator team should reach out to the
 IETF Chair for any conflict resolution in a timely manner.
 
-Because a moderator serves at the discretion of the IETF Chair - even if the
-IETF Chair is not otherwise involved in the operation of the moderator team -
+Because a moderator serves at the discretion of the IETF Chair -- even if the
+IETF Chair is not otherwise involved in the operation of the moderator team --
 any moderator decision can be appealed to the IETF Chair, per
 {{!RFC2026}}. Decisions by the IETF Chair can be appealed to the IESG as whole,
 again per {{!RFC2026}}.
