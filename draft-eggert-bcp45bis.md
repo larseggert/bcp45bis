@@ -122,12 +122,12 @@ list and all other IETF mailing lists, and requires conformance with the IETF
 Guidelines for Conduct {{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}},
 among others.
 
-This document obsoletes {{?RFC3005}}, documenting the use of other mailing
-lists for discussions that used to be in scope for the IETF discussion list,
-referring to applicable policies such as the Guidelines for Conduct
-{{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}}, and clarifying
+This document obsoletes {{?RFC3005}}, as it documents the use of other mailing
+lists for discussions that were previously in scope for the IETF discussion list,
+refers to applicable policies such as the Guidelines for Conduct
+{{?RFC7154}} and the Anti-Harassment Policy {{?RFC7776}}, and clarifies
 moderation procedures. It also updates part of {{Section 1 of ?RFC3683}}, which
-copies the list of "inappropriate postings" from {{?RFC3005}}. This list in
+copies the list of "inappropriate postings" from {{?RFC3005}}. The list in
 {{?RFC3683}} is hence updated by the new list in {{charter}}.
 
 # Charter for the IETF Discussion List {#charter}
@@ -147,7 +147,7 @@ the IETF discussion list.
 Appropriate postings to the IETF discussion list include:
 
 - Initial discussion of technical issues that are candidates for IETF work, but
-  have not yet identified appropriate mailing lists.
+  appropriate mailing lists have not yet been identified.
 
 - Questions and clarifications concerning practical aspects of IETF meetings,
   although most of these topics are better brought up on the discussion list for
@@ -193,10 +193,10 @@ the "sergeant-at-arms") for the IETF discussion list that are empowered to
 restrict posting by a person, or to an email thread, when the content is
 inappropriate and represents a pattern of abuse. They are encouraged to take
 into account the overall nature of the postings by an individual and whether
-particular postings are an aberration or typical.
+particular postings are typical or an aberration.
 
 Moderation of the IETF discussion list, including the handling of any appeals,
-is to be guided by the IETF discussion list charter specified in
+is guided by the IETF discussion list charter specified in
 {{charter}}, and the related guidance from {{intro}} that applies to all mailing
 lists. The moderators are intended to establish a self-moderation function on
 the community, by the community. Because the IESG and IAB are in the appeals
