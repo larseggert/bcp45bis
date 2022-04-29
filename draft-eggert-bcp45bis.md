@@ -252,7 +252,7 @@ The following people have made contributions to this document:
 - Lloyd Wood
 - Martin Thomson
 - Robert Wilton
-- S Moonesamy
+- Subramanian Moonesamy
 - Stephen Farrell
 
 Susan R. Harris authored {{?RFC3005}}, which this document replaces.
