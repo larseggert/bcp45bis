@@ -139,10 +139,10 @@ started on the IETF discussion list for which such a venue does exist, they
 should be continued at that other venue as soon as this is pointed out.
 
 When no dedicated mailing list exists for a topic, it may be preferable to
-request the creation of one {{NON-WG-LISTS}} and announce the
-availability of the new list on the IETF discussion list and on other
-related lists, such as area lists, rather than discussing that topic on
-the IETF discussion list.
+request that one be created {{NON-WG-LISTS}} rather than discuss it on
+the IETF discussion list.  Availability of the new list
+may be announced on the IETF discussion list and on other
+related lists, such as area lists.
 
 Appropriate postings to the IETF discussion list include:
 
