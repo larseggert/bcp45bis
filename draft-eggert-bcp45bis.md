@@ -28,69 +28,71 @@ author:
 
 informative:
   MOD-SOP:
-    title: IETF Discussion List Moderator Team Standard Operating Procedures
-    date: 2021-10-20
+    title: Sergeant-at-Arms Standard Operating Procedures
+    date: 2019-10-09
     author:
-    - organization: IETF Discussion List Moderator Team
+    - organization: IETF
+    seriesinfo: commit c1abcb0
     target: "https://github.com/ietf/saa/blob/main/sop.md"
 
   MOD-UPC:
-    title: Unprofessional Commentary
-    date: 2021-10-20
+    title: Unprofessional commentary
+    date: 2019-10-08
     author:
-    - organization: IETF Discussion List Moderator Team
+    - organization: IETF
+    seriesinfo: commit e120305
     target:
       "https://github.com/ietf/saa/blob/main/unprofessional-commentary.md"
 
   LAST-CALLS:
-    title: IETF Last Calls
-    date: 2021-10-20
+    title: last-call -- IETF Last Calls
+    date:
     author:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/last-call"
 
   IETF-DISCUSS:
-    title: IETF Discussion List
-    date: 2021-10-20
+    title: ietf -- IETF-Discussion
+    date:
     author:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/ietf"
 
   IETF-ANNOUNCE:
-    title: IETF Announcement List
-    date: 2021-10-20
+    title: IETF-Announce -- IETF announcement list. No discussions.
+    date:
     author:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/ietf-announce"
 
   ADMIN-DISCUSS:
-    title: Discussion List for IETF LLC Administrative Issues
-    date: 2021-10-20
+    title: admin-discuss -- Discussion list for IETF LLC administrative issues
+    date:
     author:
     - organization: IETF
     target: "https://ietf.org/mailman/listinfo/admin-discuss"
 
   NOTE-WELL:
     title: Note Well
-    date: 2021-10-20
+    date:
     author:
     - organization: IETF
     target: "https://ietf.org/about/note-well/"
 
   NON-WG-LISTS:
     title: Non-Working Group Email List Guidelines
-    date: 2021-10-20
+    date:
     author:
     - organization: IETF
     target: "https://ietf.org/how/lists/nonwglist-guidelines/"
 
   ARCH-DISCUSS:
-    title: Open Discussion Forum For Long/Wide-Range Architectural Issues
-    date: 2021-10-20
+    title: Architecture-discuss -- open discussion forum for long/wide-range architectural issues
+    date:
     author:
     - organization: IAB
     target: "https://ietf.org/mailman/listinfo/architecture-discuss"
-
+    
 --- abstract
 
 The Internet Engineering Task Force (IETF) discussion mailing list furthers the
