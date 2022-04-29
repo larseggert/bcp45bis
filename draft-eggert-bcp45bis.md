@@ -134,9 +134,8 @@ copies the list of "inappropriate postings" from {{?RFC3005}}. The list in
 
 The IETF discussion list is meant for discussions for which a more appropriate
 list does not exist, such as discussions that do not fall within the scope of
-any working group, area, or other established list. When discussions are
-started on the IETF discussion list for which such a venue does exist, they
-should be continued at that other venue as soon as this is pointed out.
+any working group, area, or other established list. When there is an existing venue 
+for discussion, this should be noted and discussion should be moved there.
 
 When no dedicated mailing list exists for a topic, it may be preferable to
 request that one be created {{NON-WG-LISTS}} rather than discuss it on
