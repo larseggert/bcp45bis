@@ -4,27 +4,27 @@
 
 Network Working Group                                          L. Eggert
 Internet-Draft                                                    NetApp
-Obsoletes: 3005 (if approved)                              12 April 2022
+Obsoletes: 3005 (if approved)                                 5 May 2022
 Updates: 3683 (if approved)                                             
 Intended status: Best Current Practice                                  
-Expires: 14 October 2022
+Expires: 6 November 2022
 
 
                       IETF Discussion List Charter
-                      draft-eggert-bcp45bis-latest
+                        draft-eggert-bcp45bis-08
 
 Abstract
 
    The Internet Engineering Task Force (IETF) discussion mailing list
    furthers the development and specification of Internet technology
-   through the general discussion of technical, procedural, operational
-   and other topics for which no dedicated mailing lists exists.  As
-   this is the most general IETF mailing list, considerable latitude in
-   terms of topics is allowed, but there are posts and topics that are
+   through the general discussion of technical, procedural, operational,
+   and other topics for which no dedicated mailing lists exist.  As this
+   is the most general IETF mailing list, considerable latitude in terms
+   of topics is allowed, but there are posts and topics that are
    unsuitable for this mailing list.  This document defines the charter
    for the IETF discussion list and explains its scope.
 
-   This document obsoletes RFC3005 and updates RFC3683.
+   This document obsoletes RFC 3005 and updates RFC 3683.
 
 Status of This Memo
 
@@ -41,7 +41,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 14 October 2022.
+   This Internet-Draft will expire on 6 November 2022.
 
 Copyright Notice
 
@@ -79,17 +79,6 @@ Table of Contents
    6.  References
      6.1.  Normative References
      6.2.  Informative References
-   Appendix A.  Changes
-     A.1.  Since draft-eggert-bcp45bis-08
-     A.2.  Since draft-eggert-bcp45bis-07
-     A.3.  Since draft-eggert-bcp45bis-06
-     A.4.  Since draft-eggert-bcp45bis-05
-     A.5.  Since draft-eggert-bcp45bis-04
-     A.6.  Since draft-eggert-bcp45bis-03
-     A.7.  Since draft-eggert-bcp45bis-02
-     A.8.  Since draft-eggert-bcp45bis-01
-     A.9.  Since draft-eggert-bcp45bis-00
-     A.10. Since RFC3005
    Acknowledgements
    Author's Address
 
@@ -97,8 +86,8 @@ Table of Contents
 
    The IETF discussion list [IETF-DISCUSS] furthers the development and
    specification of Internet technology through the general discussion
-   of technical, procedural, operational and other topics for which no
-   dedicated mailing lists exists.  As this is the most general IETF
+   of technical, procedural, operational, and other topics for which no
+   dedicated mailing lists exist.  As this is the most general IETF
    mailing list, considerable latitude in terms of topics is allowed.
    However, there are posts and topics that are unsuitable for this
    mailing list.  This document defines the charter for the IETF
@@ -109,34 +98,34 @@ Table of Contents
    conformance with the IETF Guidelines for Conduct [RFC7154] and the
    Anti-Harassment Policy [RFC7776], among others.
 
-   This document obsoletes [RFC3005], documenting the use of other
-   mailing lists for discussions that used to be in scope for the IETF
-   discussion list, referring to applicable policies such as the
+   This document obsoletes [RFC3005], as it documents the use of other
+   mailing lists for discussions that were previously in scope for the
+   IETF discussion list, refers to applicable policies such as the
    Guidelines for Conduct [RFC7154] and the Anti-Harassment Policy
-   [RFC7776], and clarifying moderation procedures.  It also updates
-   part of Section 1 of [RFC3683], which copies the list of
-   "inappropriate postings" from [RFC3005].  This list in [RFC3683] is
-   hence updated by the new list in Section 2 below.
+   [RFC7776], and clarifies moderation procedures.  It also updates part
+   of Section 1 of [RFC3683], which copies the list of "inappropriate
+   postings" from [RFC3005].  The list in [RFC3683] is hence updated by
+   the new list in Section 2.
 
 2.  Charter for the IETF Discussion List
 
    The IETF discussion list is meant for discussions for which a more
    appropriate list does not exist, such as discussions that do not fall
    within the scope of any working group, area, or other established
-   list.  When discussions are started on the IETF discussion list for
-   which such a venue does exist, they should be continued at that other
-   venue as soon as this is pointed out.
+   list.  When there is an existing venue for discussion, this should be
+   noted and discussion should be moved there.
 
    When no dedicated mailing list exists for a topic, it may be
-   preferable to request the creation of one [NON-WG-LISTS] and announce
-   the availability of the new list on the IETF discussion list and on
-   other related lists, such as area lists, rather than discussing that
-   topic on the IETF discussion list.
+   preferable to request that one be created [NON-WG-LISTS] rather than
+   discuss it on the IETF discussion list.  Availability of the new list
+   may be announced on the IETF discussion list and on other related
+   lists, such as area lists.
 
    Appropriate postings to the IETF discussion list include:
 
    *  Initial discussion of technical issues that are candidates for
-      IETF work, but have not yet identified appropriate mailing lists.
+      IETF work, but appropriate mailing lists have not yet been
+      identified.
 
    *  Questions and clarifications concerning practical aspects of IETF
       meetings, although most of these topics are better brought up on
@@ -187,19 +176,18 @@ Table of Contents
    to restrict posting by a person, or to an email thread, when the
    content is inappropriate and represents a pattern of abuse.  They are
    encouraged to take into account the overall nature of the postings by
-   an individual and whether particular postings are an aberration or
-   typical.
+   an individual and whether particular postings are typical or an
+   aberration.
 
    Moderation of the IETF discussion list, including the handling of any
-   appeals, is to be guided by the IETF discussion list charter
-   specified in Section 2, and the related guidance from Section 1 that
-   applies to all mailing lists.  The moderators are intended to
-   establish a self-moderation function on the community, by the
-   community.  Because the IESG and IAB are in the appeals chain for
-   moderator decisions (see below), the IETF Chair therefore should not
-   appoint a moderator who is serving in such a role.  If a moderator is
-   selected for the IESG or IAB, they will step down from the moderator
-   team.
+   appeals, is guided by the IETF discussion list charter specified in
+   Section 2, and the related guidance from Section 1 that applies to
+   all mailing lists.  The moderators are intended to establish a self-
+   moderation function on the community, by the community.  Because the
+   IESG and IAB are in the appeals chain for moderator decisions (see
+   below), the IETF Chair therefore should not appoint a moderator who
+   is serving in such a role.  If a moderator is selected for the IESG
+   or IAB, they will step down from the moderator team.
 
    Apart from appointing moderators, the IETF Chair should refrain from
    the day-to-day operation and management of the moderator team.  The
@@ -208,11 +196,11 @@ Table of Contents
    patterns [MOD-UPC].  The moderator team should reach out to the IETF
    Chair for any conflict resolution in a timely manner.
 
-   Because a moderator serves at the discretion of the IETF Chair - even
-   if the IETF Chair is not otherwise involved in the operation of the
-   moderator team - any moderator decision can be appealed to the IETF
-   Chair, per [RFC2026].  Decisions by the IETF Chair can be appealed to
-   the IESG as whole, again per [RFC2026].
+   Because a moderator serves at the discretion of the IETF Chair --
+   even if the IETF Chair is not otherwise involved in the operation of
+   the moderator team -- any moderator decision can be appealed to the
+   IETF Chair, per [RFC2026].  Decisions by the IETF Chair can be
+   appealed to the IESG as whole, again per [RFC2026].
 
 4.  Security Considerations
 
@@ -238,43 +226,42 @@ Table of Contents
 6.2.  Informative References
 
    [ADMIN-DISCUSS]
-              IETF, "Discussion List for IETF LLC Administrative
-              Issues", 20 October 2021,
+              IETF, "admin-discuss -- Discussion list for IETF LLC
+              administrative issues", n.d.,
               <https://ietf.org/mailman/listinfo/admin-discuss>.
 
    [ARCH-DISCUSS]
-              IAB, "Open Discussion Forum For Long/Wide-Range
-              Architectural Issues", 20 October 2021,
+              IAB, "Architecture-discuss -- open discussion forum for
+              long/wide-range architectural issues", n.d.,
               <https://ietf.org/mailman/listinfo/architecture-discuss>.
 
    [IETF-ANNOUNCE]
-              IETF, "IETF Announcement List", 20 October 2021,
+              IETF, "IETF-Announce -- IETF announcement list. No
+              discussions.", n.d.,
               <https://ietf.org/mailman/listinfo/ietf-announce>.
 
    [IETF-DISCUSS]
-              IETF, "IETF Discussion List", 20 October 2021,
+              IETF, "ietf -- IETF-Discussion", n.d.,
               <https://ietf.org/mailman/listinfo/ietf>.
 
    [LAST-CALLS]
-              IETF, "IETF Last Calls", 20 October 2021,
+              IETF, "last-call -- IETF Last Calls", n.d.,
               <https://ietf.org/mailman/listinfo/last-call>.
 
-   [MOD-SOP]  IETF Discussion List Moderator Team, "IETF Discussion List
-              Moderator Team Standard Operating Procedures", 20 October
-              2021, <https://github.com/ietf/saa/blob/main/sop.md>.
+   [MOD-SOP]  IETF, "Sergeant-at-Arms Standard Operating Procedures",
+              commit c1abcb0 , 9 October 2019,
+              <https://github.com/ietf/saa/blob/main/sop.md>.
 
-   [MOD-UPC]  IETF Discussion List Moderator Team, "Unprofessional
-              Commentary", 20 October 2021,
-              <https://github.com/ietf/saa/blob/main/unprofessional-
-              commentary.md>.
+   [MOD-UPC]  IETF, "Unprofessional commentary", commit e120305 , 8
+              October 2019, <https://github.com/ietf/saa/blob/main/
+              unprofessional-commentary.md>.
 
    [NON-WG-LISTS]
-              IETF, "Non-Working Group Email List Guidelines", 20
-              October 2021,
+              IETF, "Non-Working Group Email List Guidelines", n.d.,
               <https://ietf.org/how/lists/nonwglist-guidelines/>.
 
    [NOTE-WELL]
-              IETF, "Note Well", 20 October 2021,
+              IETF, "Note Well", n.d.,
               <https://ietf.org/about/note-well/>.
 
    [RFC3005]  Harris, S., "IETF Discussion List Charter", BCP 45,
@@ -306,133 +293,6 @@ Table of Contents
    [RFC7776]  Resnick, P. and A. Farrel, "IETF Anti-Harassment
               Procedures", BCP 25, RFC 7776, DOI 10.17487/RFC7776, March
               2016, <https://www.rfc-editor.org/rfc/rfc7776>.
-
-Appendix A.  Changes
-
-      |  RFC Editor: Please remove this appendix before publication.
-
-A.1.  Since draft-eggert-bcp45bis-08
-
-   *  Update [RFC3683], because it copies text from [RFC3005] that this
-      document updates.  See this issue
-      (https://github.com/larseggert/bcp45bis/issues/11).
-
-   *  addressed Eric Vyncke's IESG review
-      (https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/
-      ballot/#draft-eggert-bcp45bis_eric-vyncke)
-
-   *  addressed Francesca Palombini's IESG review
-      (https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/
-      ballot/#draft-eggert-bcp45bis_francesca-palombini) and Carsten
-      Bormann's ART ART review
-      (https://mailarchive.ietf.org/arch/msg/art/ZnkYEl-
-      9mRWfKXtzHVUu7u92QB0/)
-
-   *  addressed John Scudder's IESG review
-      (https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/
-      ballot/#draft-eggert-bcp45bis_john-scudder)
-
-   *  addressed Roman Danyliw's IESG review
-      (https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/
-      ballot/#draft-eggert-bcp45bis_roman-danyliw)
-
-   *  addressed Ben Kaduk's IESG review
-      (https://datatracker.ietf.org/doc/draft-eggert-bcp45bis/
-      ballot/#draft-eggert-bcp45bis_benjamin-kaduk)
-
-A.2.  Since draft-eggert-bcp45bis-07
-
-   *  incorporated suggestions from Adrian Farrel
-      (https://mailarchive.ietf.org/arch/msg/last-call/
-      bt79VpEeM4iAiFVD5vtxHAa_kdc)
-
-   *  incorporated some suggestions from S Moonesamy
-      (https://mailarchive.ietf.org/arch/msg/last-call/
-      xQoWLovElvnS80ZPgHquAwJs3Mw)
-
-   *  applied suggestions from Robert Wilton
-      (https://mailarchive.ietf.org/arch/msg/last-call/
-      qCC0p5Yow7AOQLo8T3862jPl4i0)
-
-A.3.  Since draft-eggert-bcp45bis-06
-
-   *  applied a suggestion from Lloyd Wood
-      (https://mailarchive.ietf.org/arch/msg/ietf/
-      jVF496BFjekl9eVx1q9sqDIqOCs) to add access dates to cited URLs
-
-   *  fixes to this change log
-
-   *  applied a suggestion from Brian Carpenter to change
-      "unprofessional" to "uncivil"
-
-A.4.  Since draft-eggert-bcp45bis-05
-
-   *  clarification of list scope as suggested by Brian Carpenter
-      (https://github.com/larseggert/bcp45bis/pull/10)
-
-A.5.  Since draft-eggert-bcp45bis-04
-
-   *  use RFC2026 appeals process
-      (https://github.com/larseggert/bcp45bis/pull/7)
-
-   *  addressed comments from Barry Leiba
-      (https://github.com/larseggert/bcp45bis/pull/6)
-
-   *  quote cited text from Wikipedia
-
-A.6.  Since draft-eggert-bcp45bis-03
-
-   *  addressed Robert Wilton's AD review
-      (https://github.com/larseggert/bcp45bis/pull/5)
-
-A.7.  Since draft-eggert-bcp45bis-02
-
-   *  additional details about and guidelines for the SAA team, based on
-      a suggestion from Dhruv Dhody
-      (https://github.com/larseggert/bcp45bis/pull/1)
-
-   *  remove reference to the IETF 110 attendees list, since those lists
-      are being removed by the secretariat shortly after each meeting
-
-A.8.  Since draft-eggert-bcp45bis-01
-
-   *  applied a suggestion from Brian Carpenter
-      (https://mailarchive.ietf.org/arch/msg/gendispatch/-
-      U2LWKf0VonKnQXs4jPEqIg_L_A)
-
-   *  rephrased beginning of Section 2, as suggested by Stephen Farrell
-      (https://mailarchive.ietf.org/arch/msg/gendispatch/p73lu-
-      D-WvQrbKBZ80c2T7bbBlQ/)
-
-   *  incorporated a suggestion from Christian Huitema
-      (https://mailarchive.ietf.org/arch/msg/
-      gendispatch/64LgqlIk0h62mAK09Muqn1ccqRE/)
-
-A.9.  Since draft-eggert-bcp45bis-00
-
-   *  added introduction, security considerations and IANA
-      considerations sections
-
-   *  added "note to readers" with pointers to the discussion list and
-      the repo
-
-   *  added references to IETF Sergeants-at-Arms procedures
-
-   *  added references to various mailing lists for topics that used to
-      be in scope for the IETF discussion list but no longer are
-
-   *  added references to the Note Well and relevant other policies that
-      apply
-
-A.10.  Since RFC3005
-
-   *  converted to Markdown and xml2rfc v3
-
-   *  updated references (as part of the conversion)
-
-   *  updated author information
-
-   *  various formatting changes
 
 Acknowledgements
 
@@ -474,7 +334,7 @@ Acknowledgements
 
    *  Robert Wilton
 
-   *  S Moonesamy
+   *  Subramanian Moonesamy
 
    *  Stephen Farrell
 
